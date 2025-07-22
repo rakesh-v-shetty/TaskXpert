@@ -1,0 +1,1001 @@
+Worker ID,Skill Category,Skill Level,Years of Experience,Current Task Assigned,Shift Availability,Performance Rating,Certifications
+1,Electrical Wiring,Low,2,Cell Assembly,Flexible,4.2,Mechanical Technician
+2,Robotics,High,3,Final Testing,Morning,4.5,Certified BMS Engineer
+3,Welding,Medium,6,Pack Assembly,Morning,4.6,Quality Control Certified
+4,BMS Integration,Medium,2,Module Assembly,Evening,3.9,Certified Welder
+5,Welding,Low,2,Final Testing,Flexible,3.1,Electrical Engineer
+6,Welding,High,6,Pack Assembly,Flexible,3.3,Mechanical Technician
+7,Packaging,Low,5,Pack Assembly,Night,4.3,None
+8,Quality Inspection,Low,7,Module Assembly,Night,4.8,Certified Welder
+9,Electrical Wiring,Medium,6,Module Assembly,Night,4.4,None
+10,Soldering,High,7,Module Assembly,Evening,4.6,Mechanical Technician
+11,Quality Inspection,High,7,Module Assembly,Night,3.8,Certified Welder
+12,BMS Integration,Low,2,Module Assembly,Evening,3.3,Certified BMS Engineer
+13,Packaging,High,3,Pack Assembly,Night,4.8,Certified Welder
+14,Electrical Wiring,High,2,Final Testing,Evening,3.4,Certified Welder
+15,Electrical Wiring,Medium,3,Pack Assembly,Flexible,3.7,None
+16,BMS Integration,Low,3,Cell Assembly,Flexible,3.3,Certified BMS Engineer
+17,Mechanical Assembly,High,6,Module Assembly,Night,4.8,Electrical Engineer
+18,Automation,Low,5,Final Testing,Evening,3.4,Mechanical Technician
+19,Automation,High,3,Module Assembly,Night,4.8,Certified BMS Engineer
+20,Mechanical Assembly,High,4,Cell Assembly,Morning,4.9,Electrical Engineer
+21,Electrical Wiring,High,7,Final Testing,Flexible,4.5,Quality Control Certified
+22,Automation,High,1,Final Testing,Night,3.8,Certified BMS Engineer
+23,Packaging,Medium,7,Module Assembly,Evening,3.9,Quality Control Certified
+24,Automation,Low,7,Cell Assembly,Night,4.0,Quality Control Certified
+25,BMS Integration,High,4,Module Assembly,Night,3.1,Quality Control Certified
+26,Quality Inspection,Medium,1,Module Assembly,Night,3.0,None
+27,BMS Integration,Low,5,Cell Assembly,Evening,4.4,Certified Welder
+28,Mechanical Assembly,Medium,1,Module Assembly,Evening,3.8,Mechanical Technician
+29,Automation,Medium,7,Pack Assembly,Evening,4.0,Certified Welder
+30,Soldering,High,4,Cell Assembly,Morning,4.8,Quality Control Certified
+31,Electrical Wiring,High,7,Cell Assembly,Evening,4.8,Certified BMS Engineer
+32,Mechanical Assembly,Low,8,Pack Assembly,Flexible,4.5,Mechanical Technician
+33,Welding,Low,3,Cell Assembly,Evening,3.2,Certified BMS Engineer
+34,Electrical Wiring,Medium,5,Pack Assembly,Evening,3.1,None
+35,BMS Integration,Medium,7,Final Testing,Flexible,4.3,Certified Welder
+36,Mechanical Assembly,Medium,4,Pack Assembly,Night,4.4,Certified BMS Engineer
+37,Packaging,Low,7,Module Assembly,Night,3.3,Electrical Engineer
+38,Robotics,High,7,Module Assembly,Evening,4.2,Mechanical Technician
+39,Packaging,High,8,Pack Assembly,Flexible,3.3,Electrical Engineer
+40,Mechanical Assembly,High,2,Module Assembly,Morning,3.8,Certified BMS Engineer
+41,Packaging,Low,1,Module Assembly,Flexible,4.6,Certified Welder
+42,BMS Integration,Medium,2,Pack Assembly,Evening,4.4,Quality Control Certified
+43,BMS Integration,Medium,4,Pack Assembly,Night,4.7,Certified BMS Engineer
+44,Soldering,High,7,Cell Assembly,Evening,4.7,None
+45,BMS Integration,Medium,7,Module Assembly,Night,4.0,Electrical Engineer
+46,Packaging,High,5,Module Assembly,Evening,4.5,Certified BMS Engineer
+47,BMS Integration,High,7,Final Testing,Morning,4.4,Quality Control Certified
+48,Quality Inspection,Low,7,Final Testing,Morning,4.8,None
+49,Robotics,Medium,7,Module Assembly,Morning,4.7,Electrical Engineer
+50,Packaging,Low,7,Pack Assembly,Flexible,3.4,Mechanical Technician
+51,Packaging,Medium,2,Module Assembly,Night,3.4,Certified Welder
+52,BMS Integration,Medium,8,Cell Assembly,Morning,4.8,Quality Control Certified
+53,Soldering,High,3,Module Assembly,Evening,3.6,Certified Welder
+54,Welding,Low,1,Module Assembly,Night,4.0,Electrical Engineer
+55,Quality Inspection,Low,5,Final Testing,Night,4.6,Electrical Engineer
+56,Robotics,High,4,Pack Assembly,Evening,3.1,Mechanical Technician
+57,Automation,Low,4,Final Testing,Night,3.5,None
+58,BMS Integration,Low,5,Module Assembly,Flexible,3.1,None
+59,Welding,Medium,7,Pack Assembly,Morning,4.5,Certified BMS Engineer
+60,Electrical Wiring,Low,8,Pack Assembly,Morning,4.1,Electrical Engineer
+61,Packaging,High,5,Pack Assembly,Morning,3.7,Certified Welder
+62,Electrical Wiring,High,6,Final Testing,Evening,3.0,None
+63,Electrical Wiring,Medium,6,Final Testing,Flexible,3.0,Electrical Engineer
+64,Welding,Low,3,Cell Assembly,Morning,4.2,Mechanical Technician
+65,Soldering,High,2,Final Testing,Evening,4.5,Certified Welder
+66,Automation,High,8,Final Testing,Morning,3.3,Certified BMS Engineer
+67,Robotics,Medium,5,Cell Assembly,Morning,4.7,Mechanical Technician
+68,Automation,Medium,7,Final Testing,Evening,4.6,Mechanical Technician
+69,Packaging,High,5,Cell Assembly,Evening,4.5,Quality Control Certified
+70,Quality Inspection,Medium,6,Final Testing,Morning,5.0,Certified Welder
+71,BMS Integration,Medium,7,Cell Assembly,Night,3.6,Quality Control Certified
+72,Mechanical Assembly,High,1,Module Assembly,Night,4.1,Certified Welder
+73,Packaging,Low,4,Pack Assembly,Evening,4.1,Certified BMS Engineer
+74,Mechanical Assembly,Medium,5,Pack Assembly,Flexible,3.5,Quality Control Certified
+75,Soldering,Medium,8,Module Assembly,Flexible,3.9,Electrical Engineer
+76,Robotics,High,6,Final Testing,Night,4.7,Mechanical Technician
+77,Mechanical Assembly,Low,2,Final Testing,Morning,3.0,None
+78,Packaging,Medium,7,Cell Assembly,Evening,4.0,Quality Control Certified
+79,BMS Integration,Low,6,Module Assembly,Morning,4.1,Electrical Engineer
+80,Soldering,High,6,Pack Assembly,Night,4.0,Quality Control Certified
+81,Mechanical Assembly,Low,8,Final Testing,Morning,3.3,Certified Welder
+82,Soldering,Medium,5,Module Assembly,Evening,3.1,Certified Welder
+83,Automation,High,2,Module Assembly,Night,4.8,None
+84,Packaging,Medium,5,Final Testing,Evening,4.9,Certified BMS Engineer
+85,Robotics,High,2,Pack Assembly,Evening,3.4,Quality Control Certified
+86,Automation,High,1,Cell Assembly,Night,3.4,Electrical Engineer
+87,Quality Inspection,Medium,5,Final Testing,Flexible,4.7,Quality Control Certified
+88,Mechanical Assembly,Low,4,Module Assembly,Evening,4.7,Certified BMS Engineer
+89,Robotics,Medium,2,Cell Assembly,Night,3.8,Electrical Engineer
+90,Welding,Medium,2,Final Testing,Flexible,3.7,Certified BMS Engineer
+91,Soldering,Low,8,Final Testing,Morning,4.6,Mechanical Technician
+92,Electrical Wiring,Low,6,Cell Assembly,Evening,3.8,None
+93,Automation,Medium,4,Cell Assembly,Flexible,4.1,Electrical Engineer
+94,Packaging,Medium,2,Final Testing,Night,3.7,Mechanical Technician
+95,Electrical Wiring,Low,6,Module Assembly,Flexible,4.0,None
+96,Welding,Medium,6,Module Assembly,Morning,3.0,Certified Welder
+97,Soldering,High,4,Module Assembly,Evening,4.5,Quality Control Certified
+98,Soldering,High,1,Pack Assembly,Flexible,4.4,None
+99,BMS Integration,Medium,1,Module Assembly,Evening,4.7,Mechanical Technician
+100,Packaging,High,7,Cell Assembly,Morning,3.6,Mechanical Technician
+101,Soldering,Medium,2,Pack Assembly,Morning,3.3,Certified BMS Engineer
+102,Electrical Wiring,High,1,Cell Assembly,Night,4.1,Certified BMS Engineer
+103,Welding,High,1,Final Testing,Evening,4.2,Certified BMS Engineer
+104,Packaging,High,7,Final Testing,Morning,3.6,Certified BMS Engineer
+105,Packaging,Low,5,Pack Assembly,Night,4.3,Certified BMS Engineer
+106,Mechanical Assembly,High,7,Final Testing,Flexible,3.5,Electrical Engineer
+107,Packaging,Medium,8,Pack Assembly,Flexible,4.5,Certified Welder
+108,Soldering,Medium,5,Final Testing,Flexible,4.6,Certified BMS Engineer
+109,Electrical Wiring,High,7,Cell Assembly,Evening,4.4,None
+110,Packaging,Medium,2,Pack Assembly,Flexible,4.8,Certified BMS Engineer
+111,Soldering,High,3,Pack Assembly,Night,3.3,Quality Control Certified
+112,Automation,High,2,Pack Assembly,Flexible,3.0,Mechanical Technician
+113,Packaging,High,3,Cell Assembly,Evening,3.7,Quality Control Certified
+114,Mechanical Assembly,Medium,8,Final Testing,Evening,4.2,Mechanical Technician
+115,Soldering,Low,4,Cell Assembly,Morning,4.3,None
+116,Robotics,High,7,Module Assembly,Evening,4.9,Electrical Engineer
+117,Mechanical Assembly,Low,4,Final Testing,Morning,4.2,Certified BMS Engineer
+118,Soldering,Medium,5,Final Testing,Morning,4.4,Quality Control Certified
+119,Welding,Low,7,Cell Assembly,Morning,4.2,Mechanical Technician
+120,Automation,High,5,Cell Assembly,Night,3.5,Mechanical Technician
+121,BMS Integration,Low,2,Module Assembly,Evening,4.2,Certified BMS Engineer
+122,Mechanical Assembly,Low,5,Pack Assembly,Morning,3.9,Electrical Engineer
+123,Welding,Medium,5,Pack Assembly,Night,3.5,Mechanical Technician
+124,Robotics,High,1,Cell Assembly,Evening,3.5,Quality Control Certified
+125,Welding,Medium,6,Pack Assembly,Flexible,4.0,Certified BMS Engineer
+126,Automation,Low,3,Cell Assembly,Night,4.6,Certified Welder
+127,Automation,Low,3,Cell Assembly,Evening,3.6,Certified Welder
+128,Automation,Medium,8,Final Testing,Morning,4.8,None
+129,Mechanical Assembly,Low,5,Module Assembly,Morning,4.2,Mechanical Technician
+130,Electrical Wiring,Medium,2,Pack Assembly,Flexible,4.8,Quality Control Certified
+131,Soldering,Medium,1,Cell Assembly,Morning,3.5,Electrical Engineer
+132,Electrical Wiring,Low,6,Module Assembly,Morning,4.6,Quality Control Certified
+133,BMS Integration,High,2,Final Testing,Evening,4.3,None
+134,Packaging,Medium,8,Final Testing,Night,4.0,None
+135,Electrical Wiring,Medium,6,Cell Assembly,Night,3.3,Quality Control Certified
+136,Electrical Wiring,High,1,Cell Assembly,Evening,4.8,Quality Control Certified
+137,Welding,Low,4,Cell Assembly,Night,4.4,None
+138,Mechanical Assembly,High,8,Module Assembly,Flexible,4.8,None
+139,BMS Integration,High,3,Cell Assembly,Morning,3.9,Certified BMS Engineer
+140,Mechanical Assembly,High,4,Final Testing,Morning,4.3,None
+141,Robotics,Medium,7,Module Assembly,Flexible,4.3,None
+142,Quality Inspection,Medium,7,Pack Assembly,Night,4.1,Certified Welder
+143,Quality Inspection,Medium,5,Pack Assembly,Flexible,4.2,Quality Control Certified
+144,Quality Inspection,Low,2,Pack Assembly,Morning,3.4,Quality Control Certified
+145,Welding,Medium,8,Module Assembly,Flexible,3.6,Certified BMS Engineer
+146,Robotics,Medium,6,Pack Assembly,Evening,4.4,Mechanical Technician
+147,Welding,Low,7,Final Testing,Night,4.1,Certified BMS Engineer
+148,Welding,Medium,3,Cell Assembly,Flexible,3.4,Quality Control Certified
+149,Electrical Wiring,Low,2,Final Testing,Evening,3.6,None
+150,Mechanical Assembly,Low,8,Cell Assembly,Evening,3.7,Certified BMS Engineer
+151,Robotics,Medium,7,Pack Assembly,Night,3.2,Quality Control Certified
+152,Automation,High,4,Module Assembly,Morning,4.3,Mechanical Technician
+153,Robotics,High,7,Cell Assembly,Morning,4.3,Mechanical Technician
+154,Soldering,Low,8,Cell Assembly,Morning,3.7,Electrical Engineer
+155,Quality Inspection,Medium,1,Module Assembly,Night,5.0,Certified BMS Engineer
+156,Mechanical Assembly,High,8,Final Testing,Evening,4.6,Electrical Engineer
+157,BMS Integration,Low,4,Cell Assembly,Flexible,3.6,Mechanical Technician
+158,Quality Inspection,Low,6,Pack Assembly,Night,4.5,Electrical Engineer
+159,Soldering,Medium,1,Final Testing,Morning,4.9,Electrical Engineer
+160,Automation,Medium,1,Module Assembly,Morning,4.8,None
+161,Automation,High,7,Final Testing,Morning,4.9,Mechanical Technician
+162,Quality Inspection,Medium,3,Pack Assembly,Evening,4.9,Mechanical Technician
+163,Quality Inspection,Low,7,Pack Assembly,Flexible,3.6,None
+164,Electrical Wiring,High,5,Cell Assembly,Evening,4.3,None
+165,BMS Integration,Low,8,Module Assembly,Night,3.7,Certified BMS Engineer
+166,Packaging,Medium,4,Cell Assembly,Night,4.4,Mechanical Technician
+167,Quality Inspection,Low,1,Final Testing,Flexible,3.8,Quality Control Certified
+168,Electrical Wiring,Low,4,Final Testing,Night,4.3,Electrical Engineer
+169,Quality Inspection,Medium,7,Cell Assembly,Night,4.3,Quality Control Certified
+170,Soldering,Low,6,Module Assembly,Evening,4.6,Certified Welder
+171,Automation,Medium,4,Cell Assembly,Evening,3.1,Electrical Engineer
+172,Mechanical Assembly,Low,3,Cell Assembly,Evening,3.2,None
+173,Packaging,Low,4,Cell Assembly,Night,4.6,Mechanical Technician
+174,Packaging,High,3,Module Assembly,Flexible,3.7,Mechanical Technician
+175,BMS Integration,High,7,Cell Assembly,Evening,3.3,Quality Control Certified
+176,Soldering,Medium,3,Cell Assembly,Evening,3.2,Electrical Engineer
+177,Quality Inspection,High,2,Cell Assembly,Flexible,3.2,Certified Welder
+178,Soldering,High,8,Final Testing,Morning,3.6,Electrical Engineer
+179,Electrical Wiring,Low,3,Pack Assembly,Morning,4.8,Certified Welder
+180,Electrical Wiring,Low,3,Pack Assembly,Flexible,4.6,Certified Welder
+181,Welding,High,2,Final Testing,Night,4.0,Quality Control Certified
+182,Electrical Wiring,Medium,5,Cell Assembly,Evening,4.3,Electrical Engineer
+183,Automation,Low,3,Final Testing,Evening,4.6,Certified BMS Engineer
+184,BMS Integration,High,2,Pack Assembly,Morning,4.1,Certified Welder
+185,Packaging,Low,3,Pack Assembly,Morning,4.5,Certified BMS Engineer
+186,Electrical Wiring,Medium,8,Module Assembly,Night,4.1,Electrical Engineer
+187,Automation,High,4,Pack Assembly,Evening,4.7,None
+188,Mechanical Assembly,Low,7,Module Assembly,Night,3.1,Electrical Engineer
+189,Automation,Low,7,Cell Assembly,Night,3.0,Certified Welder
+190,Robotics,Low,8,Pack Assembly,Flexible,4.5,Electrical Engineer
+191,BMS Integration,Low,5,Module Assembly,Flexible,3.2,None
+192,Packaging,High,1,Module Assembly,Morning,5.0,Certified BMS Engineer
+193,Automation,Low,1,Pack Assembly,Flexible,4.5,Electrical Engineer
+194,Robotics,Low,6,Final Testing,Morning,4.1,Quality Control Certified
+195,Welding,Low,4,Final Testing,Flexible,3.0,None
+196,Robotics,Medium,5,Pack Assembly,Flexible,4.1,None
+197,Quality Inspection,Low,1,Cell Assembly,Night,3.2,Certified Welder
+198,Quality Inspection,High,8,Final Testing,Night,4.6,None
+199,Packaging,Medium,3,Module Assembly,Flexible,4.8,Mechanical Technician
+200,Electrical Wiring,High,5,Final Testing,Morning,4.1,Mechanical Technician
+201,Soldering,Low,5,Cell Assembly,Morning,3.7,None
+202,Robotics,High,3,Final Testing,Flexible,3.3,Electrical Engineer
+203,Soldering,High,3,Pack Assembly,Morning,4.0,None
+204,Electrical Wiring,Medium,5,Final Testing,Evening,3.0,None
+205,Automation,High,3,Pack Assembly,Night,4.1,Quality Control Certified
+206,Welding,Low,2,Pack Assembly,Morning,4.7,Certified BMS Engineer
+207,Electrical Wiring,Medium,7,Pack Assembly,Flexible,5.0,Electrical Engineer
+208,Quality Inspection,Low,1,Cell Assembly,Morning,3.7,Quality Control Certified
+209,BMS Integration,High,4,Module Assembly,Night,4.9,None
+210,BMS Integration,Medium,3,Module Assembly,Night,3.3,Mechanical Technician
+211,Quality Inspection,Medium,2,Pack Assembly,Evening,4.3,None
+212,Electrical Wiring,Low,7,Final Testing,Morning,4.0,Certified BMS Engineer
+213,Electrical Wiring,Medium,4,Pack Assembly,Morning,3.9,Certified BMS Engineer
+214,Welding,Medium,2,Final Testing,Flexible,4.7,Certified Welder
+215,Automation,High,6,Pack Assembly,Night,3.8,None
+216,Quality Inspection,Medium,2,Cell Assembly,Morning,3.9,None
+217,BMS Integration,Low,7,Cell Assembly,Morning,4.0,Electrical Engineer
+218,Electrical Wiring,High,5,Final Testing,Evening,3.8,None
+219,Mechanical Assembly,High,3,Pack Assembly,Evening,4.6,Certified BMS Engineer
+220,Quality Inspection,Medium,8,Module Assembly,Flexible,3.7,Certified Welder
+221,Soldering,Medium,1,Module Assembly,Night,4.2,Quality Control Certified
+222,Welding,Low,3,Cell Assembly,Evening,4.4,Certified BMS Engineer
+223,BMS Integration,Low,6,Module Assembly,Night,3.4,Electrical Engineer
+224,Robotics,Low,2,Pack Assembly,Evening,4.7,Quality Control Certified
+225,Electrical Wiring,High,8,Cell Assembly,Night,3.4,Electrical Engineer
+226,Mechanical Assembly,Medium,3,Module Assembly,Evening,4.8,Certified BMS Engineer
+227,Welding,High,6,Cell Assembly,Flexible,4.0,Electrical Engineer
+228,Packaging,Medium,5,Cell Assembly,Flexible,4.2,Quality Control Certified
+229,Mechanical Assembly,High,2,Module Assembly,Night,3.5,Certified BMS Engineer
+230,Automation,High,6,Pack Assembly,Flexible,4.2,Certified BMS Engineer
+231,Electrical Wiring,Medium,7,Final Testing,Evening,3.2,Electrical Engineer
+232,BMS Integration,Medium,5,Cell Assembly,Night,4.0,Electrical Engineer
+233,Mechanical Assembly,Medium,2,Cell Assembly,Morning,3.8,Mechanical Technician
+234,Packaging,High,4,Final Testing,Evening,4.7,Quality Control Certified
+235,BMS Integration,High,1,Cell Assembly,Evening,3.8,Certified Welder
+236,Welding,Low,4,Final Testing,Morning,3.1,Mechanical Technician
+237,Mechanical Assembly,Low,4,Cell Assembly,Evening,4.0,Quality Control Certified
+238,Quality Inspection,High,1,Pack Assembly,Night,3.2,None
+239,Quality Inspection,Medium,2,Module Assembly,Flexible,3.5,None
+240,Robotics,Medium,5,Final Testing,Night,3.2,Mechanical Technician
+241,Welding,High,7,Final Testing,Morning,3.4,Certified BMS Engineer
+242,BMS Integration,Medium,3,Pack Assembly,Night,4.7,Certified Welder
+243,BMS Integration,Low,4,Pack Assembly,Flexible,3.4,Quality Control Certified
+244,Automation,Medium,2,Module Assembly,Flexible,5.0,None
+245,Automation,High,3,Final Testing,Flexible,4.1,Certified BMS Engineer
+246,Packaging,Low,5,Pack Assembly,Night,4.8,Certified Welder
+247,Robotics,Medium,1,Cell Assembly,Flexible,3.1,None
+248,Soldering,Medium,5,Final Testing,Flexible,4.2,None
+249,Robotics,High,1,Cell Assembly,Evening,4.2,Certified Welder
+250,Robotics,Low,7,Cell Assembly,Morning,3.8,Certified Welder
+251,Welding,Medium,7,Cell Assembly,Morning,4.0,None
+252,Electrical Wiring,High,1,Cell Assembly,Morning,3.7,Quality Control Certified
+253,Electrical Wiring,Low,3,Cell Assembly,Night,3.8,Certified BMS Engineer
+254,Automation,Medium,1,Module Assembly,Night,4.9,Mechanical Technician
+255,Packaging,Low,4,Cell Assembly,Night,4.6,Certified BMS Engineer
+256,Packaging,Medium,2,Final Testing,Morning,4.6,Quality Control Certified
+257,Welding,Medium,3,Final Testing,Morning,3.3,Mechanical Technician
+258,Soldering,High,6,Module Assembly,Flexible,4.1,None
+259,Welding,Medium,3,Pack Assembly,Morning,3.7,Certified BMS Engineer
+260,Welding,Low,2,Pack Assembly,Night,4.2,Electrical Engineer
+261,Packaging,Low,5,Module Assembly,Evening,4.2,Certified Welder
+262,Soldering,Medium,5,Pack Assembly,Evening,4.2,Mechanical Technician
+263,Welding,Low,7,Final Testing,Night,4.4,Certified Welder
+264,Robotics,High,7,Final Testing,Night,3.4,None
+265,Quality Inspection,High,6,Final Testing,Morning,4.2,Electrical Engineer
+266,Packaging,Low,8,Final Testing,Evening,4.3,Certified BMS Engineer
+267,Electrical Wiring,Medium,2,Cell Assembly,Flexible,3.2,Electrical Engineer
+268,Quality Inspection,Low,7,Cell Assembly,Night,4.2,None
+269,Electrical Wiring,Medium,7,Cell Assembly,Morning,3.8,Certified BMS Engineer
+270,Automation,Low,2,Cell Assembly,Flexible,4.6,Certified Welder
+271,Soldering,Medium,6,Module Assembly,Night,3.9,None
+272,Robotics,Medium,6,Final Testing,Evening,4.0,Electrical Engineer
+273,Welding,Low,5,Final Testing,Evening,3.8,Electrical Engineer
+274,Automation,Low,7,Final Testing,Night,3.9,Certified Welder
+275,Soldering,Medium,5,Pack Assembly,Morning,4.8,Electrical Engineer
+276,Mechanical Assembly,Low,4,Pack Assembly,Evening,3.5,Certified Welder
+277,Soldering,High,8,Cell Assembly,Evening,3.9,Certified Welder
+278,Robotics,Medium,8,Pack Assembly,Night,3.2,Mechanical Technician
+279,Welding,High,5,Cell Assembly,Morning,4.9,Certified BMS Engineer
+280,Automation,Low,8,Pack Assembly,Evening,4.0,Certified BMS Engineer
+281,Quality Inspection,Medium,8,Module Assembly,Morning,4.3,Electrical Engineer
+282,Electrical Wiring,High,8,Cell Assembly,Flexible,4.6,None
+283,Quality Inspection,High,5,Module Assembly,Morning,3.3,Mechanical Technician
+284,Quality Inspection,Low,1,Cell Assembly,Evening,4.9,Electrical Engineer
+285,Welding,High,4,Module Assembly,Morning,3.1,Quality Control Certified
+286,Automation,Low,7,Pack Assembly,Flexible,4.4,Quality Control Certified
+287,Quality Inspection,Medium,7,Cell Assembly,Flexible,4.4,None
+288,Soldering,Low,2,Final Testing,Flexible,3.7,Electrical Engineer
+289,BMS Integration,High,1,Final Testing,Evening,3.9,Certified Welder
+290,Quality Inspection,Medium,4,Cell Assembly,Flexible,3.3,None
+291,BMS Integration,Low,3,Final Testing,Evening,4.2,Quality Control Certified
+292,Robotics,Medium,6,Pack Assembly,Night,3.8,Certified BMS Engineer
+293,Quality Inspection,Medium,8,Cell Assembly,Evening,4.5,None
+294,Mechanical Assembly,Low,5,Final Testing,Evening,4.3,Electrical Engineer
+295,Robotics,Low,2,Final Testing,Night,4.2,Mechanical Technician
+296,Quality Inspection,Low,1,Cell Assembly,Morning,3.6,Certified Welder
+297,Robotics,High,1,Cell Assembly,Night,3.1,Quality Control Certified
+298,Soldering,Medium,5,Cell Assembly,Flexible,4.6,Certified BMS Engineer
+299,Packaging,Medium,1,Pack Assembly,Morning,3.9,Mechanical Technician
+300,Packaging,Low,8,Module Assembly,Flexible,3.2,Certified Welder
+301,Robotics,Medium,4,Pack Assembly,Evening,4.8,Certified Welder
+302,BMS Integration,High,1,Pack Assembly,Evening,4.5,None
+303,BMS Integration,Medium,6,Pack Assembly,Evening,3.2,Electrical Engineer
+304,Mechanical Assembly,High,7,Final Testing,Flexible,3.7,Certified BMS Engineer
+305,Quality Inspection,High,3,Pack Assembly,Evening,4.6,Quality Control Certified
+306,Electrical Wiring,Low,3,Final Testing,Flexible,3.8,Quality Control Certified
+307,Packaging,High,6,Module Assembly,Evening,4.3,Mechanical Technician
+308,Mechanical Assembly,Medium,6,Final Testing,Morning,3.7,Certified Welder
+309,Electrical Wiring,Low,2,Cell Assembly,Night,4.4,Mechanical Technician
+310,Packaging,Low,2,Cell Assembly,Flexible,4.2,Mechanical Technician
+311,Soldering,Medium,6,Cell Assembly,Night,4.3,Certified Welder
+312,Quality Inspection,High,6,Pack Assembly,Evening,4.0,Mechanical Technician
+313,Soldering,High,1,Final Testing,Flexible,4.7,Quality Control Certified
+314,Packaging,High,4,Pack Assembly,Evening,4.0,Certified Welder
+315,Mechanical Assembly,Medium,5,Cell Assembly,Night,3.4,Certified Welder
+316,Packaging,High,2,Module Assembly,Flexible,4.0,Quality Control Certified
+317,Welding,Low,4,Final Testing,Evening,4.1,Electrical Engineer
+318,Robotics,Low,5,Module Assembly,Morning,3.8,None
+319,Robotics,High,3,Cell Assembly,Evening,4.0,Electrical Engineer
+320,BMS Integration,Medium,7,Cell Assembly,Evening,3.8,Mechanical Technician
+321,Mechanical Assembly,Low,4,Final Testing,Night,3.2,Quality Control Certified
+322,Soldering,Low,3,Cell Assembly,Flexible,3.1,Electrical Engineer
+323,Robotics,Low,7,Cell Assembly,Night,4.2,Certified BMS Engineer
+324,Robotics,High,6,Pack Assembly,Morning,3.4,None
+325,Welding,High,8,Module Assembly,Flexible,3.2,None
+326,BMS Integration,Medium,7,Cell Assembly,Morning,3.0,None
+327,Packaging,Medium,4,Pack Assembly,Night,4.9,Certified Welder
+328,Robotics,Low,5,Cell Assembly,Evening,3.5,Certified BMS Engineer
+329,BMS Integration,Low,1,Cell Assembly,Evening,4.9,Electrical Engineer
+330,Electrical Wiring,Low,5,Cell Assembly,Morning,4.2,Certified BMS Engineer
+331,Robotics,High,4,Pack Assembly,Night,3.8,Certified Welder
+332,Electrical Wiring,Medium,7,Pack Assembly,Evening,4.1,Certified Welder
+333,Packaging,Medium,6,Cell Assembly,Morning,3.7,Quality Control Certified
+334,Soldering,High,1,Module Assembly,Morning,3.9,Quality Control Certified
+335,Robotics,High,6,Module Assembly,Night,4.1,Mechanical Technician
+336,Mechanical Assembly,Medium,6,Module Assembly,Evening,4.4,Mechanical Technician
+337,Soldering,Low,2,Cell Assembly,Morning,3.6,Certified Welder
+338,Soldering,Medium,3,Cell Assembly,Night,4.7,None
+339,Automation,High,4,Final Testing,Flexible,4.8,Quality Control Certified
+340,Quality Inspection,Low,8,Cell Assembly,Night,4.2,Certified BMS Engineer
+341,Robotics,Low,4,Cell Assembly,Evening,3.9,Mechanical Technician
+342,BMS Integration,Medium,1,Module Assembly,Night,3.4,None
+343,Quality Inspection,Medium,8,Cell Assembly,Evening,4.3,Certified BMS Engineer
+344,Welding,Low,3,Final Testing,Flexible,4.3,Certified Welder
+345,Welding,Medium,3,Final Testing,Night,4.6,Mechanical Technician
+346,Automation,Medium,7,Cell Assembly,Evening,3.4,Certified BMS Engineer
+347,BMS Integration,High,6,Final Testing,Flexible,4.4,Certified BMS Engineer
+348,Welding,High,4,Final Testing,Evening,3.1,Electrical Engineer
+349,Mechanical Assembly,Medium,2,Module Assembly,Evening,3.2,Quality Control Certified
+350,Mechanical Assembly,Medium,2,Cell Assembly,Flexible,4.5,Certified BMS Engineer
+351,Quality Inspection,Medium,6,Cell Assembly,Evening,3.4,Mechanical Technician
+352,Electrical Wiring,Low,4,Pack Assembly,Morning,3.4,Certified Welder
+353,Mechanical Assembly,Low,2,Final Testing,Night,3.6,Quality Control Certified
+354,Electrical Wiring,Low,7,Module Assembly,Evening,3.4,Certified BMS Engineer
+355,Mechanical Assembly,High,1,Cell Assembly,Evening,4.1,Quality Control Certified
+356,Electrical Wiring,High,1,Module Assembly,Flexible,3.5,None
+357,Mechanical Assembly,Medium,6,Module Assembly,Morning,3.8,Certified BMS Engineer
+358,Robotics,Low,8,Cell Assembly,Flexible,3.6,Certified BMS Engineer
+359,Automation,Medium,7,Pack Assembly,Flexible,4.9,Mechanical Technician
+360,Robotics,Low,4,Cell Assembly,Morning,4.9,Certified BMS Engineer
+361,BMS Integration,Low,5,Final Testing,Evening,4.2,Electrical Engineer
+362,Electrical Wiring,Medium,4,Cell Assembly,Morning,4.9,Electrical Engineer
+363,Mechanical Assembly,High,7,Cell Assembly,Morning,3.6,None
+364,BMS Integration,Low,5,Module Assembly,Evening,3.4,Certified BMS Engineer
+365,Robotics,High,6,Final Testing,Flexible,3.4,Quality Control Certified
+366,Quality Inspection,Low,4,Final Testing,Morning,4.5,None
+367,Electrical Wiring,High,6,Module Assembly,Night,4.3,Certified BMS Engineer
+368,Electrical Wiring,Low,5,Final Testing,Flexible,4.0,Quality Control Certified
+369,Quality Inspection,High,3,Module Assembly,Night,4.6,None
+370,Mechanical Assembly,Low,8,Module Assembly,Flexible,4.3,Certified BMS Engineer
+371,Welding,High,6,Pack Assembly,Flexible,3.6,None
+372,Mechanical Assembly,High,3,Pack Assembly,Evening,4.8,Quality Control Certified
+373,Mechanical Assembly,Medium,2,Pack Assembly,Night,3.3,None
+374,Quality Inspection,High,6,Pack Assembly,Morning,3.7,Mechanical Technician
+375,Quality Inspection,Medium,3,Cell Assembly,Morning,3.6,Quality Control Certified
+376,Welding,High,4,Cell Assembly,Flexible,4.9,Mechanical Technician
+377,BMS Integration,Medium,2,Cell Assembly,Morning,5.0,Mechanical Technician
+378,Robotics,Medium,3,Pack Assembly,Evening,5.0,Mechanical Technician
+379,Robotics,High,8,Pack Assembly,Evening,4.1,Certified BMS Engineer
+380,Robotics,Medium,6,Cell Assembly,Morning,4.9,Quality Control Certified
+381,Quality Inspection,High,6,Pack Assembly,Night,3.4,Mechanical Technician
+382,Quality Inspection,Medium,6,Pack Assembly,Morning,4.6,Electrical Engineer
+383,BMS Integration,High,2,Final Testing,Flexible,3.7,Certified BMS Engineer
+384,Automation,Medium,7,Module Assembly,Evening,3.7,Electrical Engineer
+385,Quality Inspection,Low,1,Final Testing,Morning,4.9,Quality Control Certified
+386,BMS Integration,Medium,4,Module Assembly,Evening,3.5,Quality Control Certified
+387,Automation,Medium,1,Module Assembly,Evening,3.8,None
+388,Welding,High,5,Cell Assembly,Evening,3.2,Certified Welder
+389,Electrical Wiring,High,6,Final Testing,Evening,4.0,None
+390,BMS Integration,High,6,Final Testing,Evening,4.9,Electrical Engineer
+391,Soldering,Low,3,Module Assembly,Evening,4.4,Certified Welder
+392,Welding,Low,1,Cell Assembly,Night,4.9,Certified Welder
+393,Mechanical Assembly,High,1,Final Testing,Flexible,3.6,Certified Welder
+394,Mechanical Assembly,Medium,1,Pack Assembly,Morning,3.5,Electrical Engineer
+395,Soldering,Low,4,Cell Assembly,Morning,3.9,Certified BMS Engineer
+396,Mechanical Assembly,Low,7,Module Assembly,Flexible,4.6,Quality Control Certified
+397,Electrical Wiring,High,4,Module Assembly,Flexible,3.5,None
+398,Mechanical Assembly,Medium,3,Cell Assembly,Morning,3.2,None
+399,Soldering,Low,4,Module Assembly,Flexible,3.8,Quality Control Certified
+400,Automation,High,6,Final Testing,Night,3.8,Certified BMS Engineer
+401,Robotics,High,1,Pack Assembly,Flexible,3.4,Certified Welder
+402,Soldering,Medium,4,Cell Assembly,Morning,4.9,Certified BMS Engineer
+403,BMS Integration,High,1,Final Testing,Evening,4.9,Quality Control Certified
+404,Packaging,Low,3,Cell Assembly,Flexible,3.3,Certified BMS Engineer
+405,Welding,Low,7,Pack Assembly,Morning,3.8,Electrical Engineer
+406,Quality Inspection,High,5,Pack Assembly,Flexible,3.8,Mechanical Technician
+407,Automation,Medium,1,Final Testing,Evening,4.9,Mechanical Technician
+408,Welding,Low,8,Cell Assembly,Flexible,3.9,Electrical Engineer
+409,Welding,High,4,Pack Assembly,Night,4.5,Electrical Engineer
+410,Welding,Medium,1,Cell Assembly,Night,4.4,Certified Welder
+411,Quality Inspection,Medium,5,Cell Assembly,Morning,4.8,None
+412,Soldering,Low,8,Cell Assembly,Flexible,4.4,Certified Welder
+413,Automation,High,4,Module Assembly,Night,4.0,Electrical Engineer
+414,Mechanical Assembly,Medium,8,Module Assembly,Evening,3.6,Quality Control Certified
+415,Mechanical Assembly,Medium,4,Pack Assembly,Evening,3.3,Mechanical Technician
+416,Welding,High,5,Pack Assembly,Morning,4.8,Electrical Engineer
+417,Robotics,Medium,3,Cell Assembly,Flexible,4.7,Electrical Engineer
+418,Robotics,Medium,2,Module Assembly,Evening,4.9,Mechanical Technician
+419,Quality Inspection,High,1,Cell Assembly,Evening,3.6,Certified BMS Engineer
+420,Automation,High,1,Cell Assembly,Flexible,4.8,Mechanical Technician
+421,Packaging,Low,6,Final Testing,Morning,3.0,Certified BMS Engineer
+422,Packaging,High,7,Final Testing,Night,3.9,Quality Control Certified
+423,Soldering,High,8,Pack Assembly,Flexible,3.0,Certified Welder
+424,Packaging,Low,1,Cell Assembly,Morning,4.9,Quality Control Certified
+425,Quality Inspection,Medium,6,Module Assembly,Night,3.4,Certified Welder
+426,Soldering,Low,3,Cell Assembly,Flexible,4.1,Certified BMS Engineer
+427,Quality Inspection,Medium,2,Module Assembly,Evening,4.9,Electrical Engineer
+428,Electrical Wiring,Low,3,Pack Assembly,Night,4.8,Certified BMS Engineer
+429,Quality Inspection,High,7,Module Assembly,Evening,4.9,Certified BMS Engineer
+430,Quality Inspection,Medium,2,Pack Assembly,Night,4.6,Mechanical Technician
+431,Packaging,Low,4,Module Assembly,Night,3.2,Certified BMS Engineer
+432,Automation,Low,8,Final Testing,Evening,3.9,Certified BMS Engineer
+433,Packaging,High,1,Pack Assembly,Flexible,4.1,None
+434,Automation,Low,2,Module Assembly,Flexible,4.7,Certified Welder
+435,Automation,Medium,7,Pack Assembly,Flexible,4.5,Quality Control Certified
+436,BMS Integration,Low,8,Module Assembly,Flexible,3.9,Quality Control Certified
+437,Welding,High,7,Pack Assembly,Evening,4.4,Quality Control Certified
+438,Automation,High,1,Pack Assembly,Night,3.6,Certified Welder
+439,BMS Integration,Medium,1,Module Assembly,Evening,4.3,Electrical Engineer
+440,Mechanical Assembly,Low,1,Final Testing,Night,4.4,Certified Welder
+441,Mechanical Assembly,Medium,8,Module Assembly,Night,3.3,Electrical Engineer
+442,Welding,High,3,Cell Assembly,Morning,4.5,Electrical Engineer
+443,Quality Inspection,Medium,7,Cell Assembly,Night,3.2,Certified BMS Engineer
+444,Electrical Wiring,Low,7,Pack Assembly,Morning,4.6,Electrical Engineer
+445,Robotics,High,4,Final Testing,Flexible,4.9,Electrical Engineer
+446,Robotics,High,7,Pack Assembly,Flexible,4.7,None
+447,Automation,High,6,Final Testing,Morning,3.0,Mechanical Technician
+448,Welding,Low,2,Final Testing,Evening,4.7,Mechanical Technician
+449,Packaging,High,1,Pack Assembly,Flexible,3.8,Mechanical Technician
+450,Packaging,Medium,6,Cell Assembly,Night,4.2,Mechanical Technician
+451,Packaging,Medium,4,Cell Assembly,Night,3.8,None
+452,BMS Integration,High,1,Module Assembly,Evening,4.0,Quality Control Certified
+453,Mechanical Assembly,Medium,4,Module Assembly,Evening,3.5,Quality Control Certified
+454,Electrical Wiring,High,4,Pack Assembly,Morning,4.7,Quality Control Certified
+455,BMS Integration,High,8,Module Assembly,Morning,3.8,None
+456,Packaging,Low,6,Pack Assembly,Night,4.0,Quality Control Certified
+457,Electrical Wiring,Low,8,Cell Assembly,Morning,4.0,Electrical Engineer
+458,Automation,Medium,6,Pack Assembly,Evening,3.9,Mechanical Technician
+459,Soldering,High,3,Pack Assembly,Flexible,4.7,Electrical Engineer
+460,BMS Integration,Low,6,Final Testing,Flexible,4.0,Mechanical Technician
+461,Mechanical Assembly,High,6,Cell Assembly,Morning,4.8,Certified BMS Engineer
+462,Mechanical Assembly,Low,8,Pack Assembly,Evening,4.7,Certified BMS Engineer
+463,Quality Inspection,Low,4,Final Testing,Night,3.6,Certified Welder
+464,Soldering,Medium,1,Pack Assembly,Morning,4.8,Electrical Engineer
+465,BMS Integration,Low,6,Pack Assembly,Flexible,4.5,Electrical Engineer
+466,Mechanical Assembly,Low,1,Module Assembly,Night,4.1,Electrical Engineer
+467,Robotics,High,6,Module Assembly,Night,4.9,None
+468,Quality Inspection,Medium,4,Final Testing,Evening,3.4,Quality Control Certified
+469,BMS Integration,High,3,Final Testing,Night,4.8,Certified BMS Engineer
+470,Electrical Wiring,High,2,Cell Assembly,Morning,3.2,Certified Welder
+471,Robotics,Medium,6,Module Assembly,Morning,4.2,Mechanical Technician
+472,Soldering,Medium,4,Cell Assembly,Flexible,3.3,Electrical Engineer
+473,Robotics,Low,4,Module Assembly,Evening,3.1,Electrical Engineer
+474,Soldering,Medium,2,Module Assembly,Morning,3.9,Quality Control Certified
+475,Soldering,Low,1,Final Testing,Flexible,3.6,Certified Welder
+476,Quality Inspection,Low,1,Module Assembly,Evening,3.7,Mechanical Technician
+477,BMS Integration,High,1,Module Assembly,Flexible,3.8,Certified BMS Engineer
+478,Quality Inspection,Medium,4,Final Testing,Night,3.2,Mechanical Technician
+479,Robotics,Low,2,Module Assembly,Evening,4.5,Certified BMS Engineer
+480,Automation,Medium,7,Cell Assembly,Evening,4.3,Mechanical Technician
+481,Mechanical Assembly,Medium,4,Cell Assembly,Night,3.9,Certified Welder
+482,Electrical Wiring,Low,5,Pack Assembly,Night,4.0,None
+483,Electrical Wiring,High,8,Cell Assembly,Flexible,3.9,Electrical Engineer
+484,Quality Inspection,Low,4,Final Testing,Evening,3.7,Electrical Engineer
+485,Soldering,Medium,1,Final Testing,Evening,4.2,Electrical Engineer
+486,Packaging,Low,5,Final Testing,Morning,4.6,Certified BMS Engineer
+487,Packaging,High,7,Final Testing,Morning,4.9,Electrical Engineer
+488,Welding,High,2,Pack Assembly,Morning,3.1,Certified Welder
+489,Mechanical Assembly,High,5,Cell Assembly,Night,4.1,Certified Welder
+490,Mechanical Assembly,Medium,3,Module Assembly,Night,4.9,None
+491,Mechanical Assembly,High,1,Cell Assembly,Morning,4.0,Certified Welder
+492,BMS Integration,Low,3,Cell Assembly,Evening,4.6,Quality Control Certified
+493,BMS Integration,Medium,7,Pack Assembly,Night,3.9,Quality Control Certified
+494,Welding,Low,4,Final Testing,Night,4.9,None
+495,Electrical Wiring,Low,5,Module Assembly,Morning,3.8,None
+496,BMS Integration,High,4,Final Testing,Morning,4.0,None
+497,Welding,Medium,4,Module Assembly,Flexible,4.7,Certified BMS Engineer
+498,Automation,Low,6,Cell Assembly,Flexible,4.1,None
+499,Packaging,Low,5,Final Testing,Evening,3.7,Electrical Engineer
+500,Automation,Medium,1,Pack Assembly,Morning,3.7,Mechanical Technician
+501,Mechanical Assembly,Low,4,Final Testing,Night,5.0,Certified Welder
+502,Welding,Medium,3,Module Assembly,Flexible,3.8,Mechanical Technician
+503,Soldering,Low,4,Cell Assembly,Morning,3.2,Mechanical Technician
+504,Automation,Medium,2,Cell Assembly,Morning,3.4,Certified Welder
+505,Mechanical Assembly,Medium,3,Final Testing,Flexible,3.5,Electrical Engineer
+506,Packaging,Low,7,Final Testing,Flexible,4.9,Certified BMS Engineer
+507,Robotics,High,4,Pack Assembly,Night,4.2,Certified Welder
+508,Automation,Medium,5,Pack Assembly,Night,4.4,Quality Control Certified
+509,Welding,Low,2,Cell Assembly,Evening,3.6,None
+510,Packaging,High,4,Module Assembly,Morning,4.7,None
+511,Mechanical Assembly,Medium,4,Cell Assembly,Flexible,3.0,Electrical Engineer
+512,Packaging,Medium,1,Final Testing,Evening,3.2,Certified BMS Engineer
+513,Automation,Medium,1,Module Assembly,Flexible,4.4,Quality Control Certified
+514,Packaging,High,3,Cell Assembly,Morning,4.0,Mechanical Technician
+515,BMS Integration,Low,2,Cell Assembly,Flexible,3.4,Certified BMS Engineer
+516,Electrical Wiring,Low,1,Final Testing,Evening,3.5,Quality Control Certified
+517,Automation,Medium,2,Module Assembly,Flexible,3.3,Certified Welder
+518,Robotics,Low,4,Cell Assembly,Night,4.5,Certified Welder
+519,Quality Inspection,Low,5,Cell Assembly,Evening,3.4,Certified Welder
+520,Packaging,Medium,8,Final Testing,Evening,3.2,Electrical Engineer
+521,Automation,Medium,1,Pack Assembly,Flexible,4.5,Certified Welder
+522,Robotics,Medium,1,Cell Assembly,Evening,4.8,Electrical Engineer
+523,Welding,High,5,Final Testing,Night,3.3,Mechanical Technician
+524,Automation,Low,3,Module Assembly,Evening,3.3,Electrical Engineer
+525,BMS Integration,High,8,Pack Assembly,Morning,4.8,None
+526,Automation,Low,8,Module Assembly,Morning,3.0,Certified Welder
+527,Mechanical Assembly,Low,7,Module Assembly,Morning,3.7,None
+528,Quality Inspection,High,2,Module Assembly,Evening,3.2,Certified Welder
+529,Electrical Wiring,High,4,Cell Assembly,Flexible,3.4,Electrical Engineer
+530,Automation,High,6,Module Assembly,Night,3.7,Electrical Engineer
+531,Welding,Low,1,Module Assembly,Evening,3.6,Quality Control Certified
+532,Packaging,High,7,Final Testing,Morning,4.5,Certified BMS Engineer
+533,Packaging,High,8,Pack Assembly,Night,3.6,Quality Control Certified
+534,Automation,Medium,2,Pack Assembly,Flexible,3.3,Electrical Engineer
+535,Robotics,Low,5,Final Testing,Evening,3.0,Certified Welder
+536,BMS Integration,High,5,Module Assembly,Night,4.7,None
+537,Automation,Medium,6,Final Testing,Night,3.0,None
+538,BMS Integration,High,2,Final Testing,Evening,4.8,Certified Welder
+539,Automation,Medium,6,Final Testing,Flexible,3.8,Certified BMS Engineer
+540,Automation,High,7,Cell Assembly,Morning,4.2,Certified BMS Engineer
+541,Automation,Low,3,Final Testing,Evening,4.5,Certified BMS Engineer
+542,Mechanical Assembly,Low,1,Module Assembly,Night,3.1,Electrical Engineer
+543,Electrical Wiring,Low,5,Pack Assembly,Morning,4.5,Certified BMS Engineer
+544,Welding,Low,6,Pack Assembly,Flexible,3.5,Quality Control Certified
+545,Soldering,High,3,Final Testing,Morning,3.1,None
+546,Welding,Low,8,Final Testing,Night,4.2,Quality Control Certified
+547,Welding,High,4,Final Testing,Morning,3.5,Certified BMS Engineer
+548,Welding,Medium,1,Module Assembly,Night,3.3,Quality Control Certified
+549,Electrical Wiring,High,5,Pack Assembly,Evening,4.5,Certified Welder
+550,Soldering,High,3,Pack Assembly,Morning,4.2,Mechanical Technician
+551,Automation,High,8,Final Testing,Morning,4.5,Quality Control Certified
+552,Soldering,Medium,1,Cell Assembly,Morning,4.9,Mechanical Technician
+553,BMS Integration,High,3,Final Testing,Night,4.1,Quality Control Certified
+554,BMS Integration,Low,5,Pack Assembly,Evening,3.0,Certified Welder
+555,Electrical Wiring,Medium,3,Module Assembly,Evening,3.6,Quality Control Certified
+556,BMS Integration,Low,8,Module Assembly,Evening,4.1,Certified BMS Engineer
+557,Mechanical Assembly,High,5,Pack Assembly,Night,4.3,None
+558,Packaging,Medium,6,Final Testing,Morning,4.4,Certified Welder
+559,BMS Integration,High,6,Final Testing,Morning,4.2,Certified Welder
+560,BMS Integration,Low,5,Pack Assembly,Evening,3.7,Mechanical Technician
+561,Electrical Wiring,High,4,Cell Assembly,Flexible,3.6,Quality Control Certified
+562,Mechanical Assembly,Medium,8,Cell Assembly,Morning,3.5,Certified BMS Engineer
+563,Electrical Wiring,Medium,6,Pack Assembly,Flexible,3.3,Mechanical Technician
+564,Mechanical Assembly,Medium,3,Final Testing,Morning,4.1,None
+565,BMS Integration,High,7,Final Testing,Morning,4.6,Electrical Engineer
+566,BMS Integration,High,8,Pack Assembly,Evening,3.2,Certified Welder
+567,BMS Integration,Low,7,Pack Assembly,Night,3.6,Certified Welder
+568,BMS Integration,High,5,Pack Assembly,Flexible,3.1,Quality Control Certified
+569,Robotics,Medium,8,Cell Assembly,Flexible,4.2,Certified Welder
+570,BMS Integration,Low,5,Final Testing,Evening,4.5,Quality Control Certified
+571,Welding,Medium,4,Cell Assembly,Night,4.3,Quality Control Certified
+572,Welding,Low,8,Final Testing,Morning,3.7,Mechanical Technician
+573,Quality Inspection,Medium,2,Pack Assembly,Morning,4.7,Certified Welder
+574,Soldering,Low,5,Module Assembly,Flexible,4.5,Electrical Engineer
+575,Packaging,High,4,Module Assembly,Evening,5.0,None
+576,BMS Integration,Medium,5,Final Testing,Night,4.8,Electrical Engineer
+577,Quality Inspection,High,4,Final Testing,Evening,4.1,Quality Control Certified
+578,Packaging,High,1,Cell Assembly,Flexible,4.2,Certified BMS Engineer
+579,BMS Integration,High,8,Cell Assembly,Evening,3.2,Quality Control Certified
+580,Packaging,Medium,8,Pack Assembly,Evening,3.3,Electrical Engineer
+581,Packaging,Medium,8,Final Testing,Flexible,4.3,Mechanical Technician
+582,Mechanical Assembly,Medium,6,Final Testing,Night,3.1,Electrical Engineer
+583,Quality Inspection,High,1,Pack Assembly,Evening,3.5,Mechanical Technician
+584,BMS Integration,Low,4,Module Assembly,Flexible,3.4,Electrical Engineer
+585,Mechanical Assembly,High,4,Module Assembly,Night,3.7,Certified BMS Engineer
+586,BMS Integration,Low,3,Cell Assembly,Evening,3.2,Certified BMS Engineer
+587,BMS Integration,Medium,3,Final Testing,Night,3.6,None
+588,Electrical Wiring,Low,1,Module Assembly,Morning,4.8,Mechanical Technician
+589,Packaging,Medium,7,Module Assembly,Morning,4.3,Quality Control Certified
+590,Quality Inspection,High,4,Pack Assembly,Evening,4.8,Mechanical Technician
+591,Electrical Wiring,Low,7,Pack Assembly,Flexible,3.3,Quality Control Certified
+592,Electrical Wiring,Medium,7,Cell Assembly,Night,3.2,None
+593,Quality Inspection,Low,3,Module Assembly,Flexible,3.5,None
+594,Mechanical Assembly,High,8,Cell Assembly,Morning,3.8,Mechanical Technician
+595,Automation,Medium,1,Cell Assembly,Morning,4.4,Quality Control Certified
+596,BMS Integration,Low,1,Cell Assembly,Flexible,3.6,Certified Welder
+597,Mechanical Assembly,Medium,8,Cell Assembly,Morning,4.2,Mechanical Technician
+598,Electrical Wiring,Low,3,Pack Assembly,Morning,3.4,Electrical Engineer
+599,Packaging,Medium,3,Cell Assembly,Evening,3.1,Certified BMS Engineer
+600,Quality Inspection,Medium,4,Cell Assembly,Morning,3.4,Certified Welder
+601,Packaging,Medium,6,Pack Assembly,Morning,3.2,Electrical Engineer
+602,BMS Integration,Low,6,Pack Assembly,Night,3.7,Certified Welder
+603,Welding,High,4,Pack Assembly,Night,3.9,None
+604,Packaging,High,7,Final Testing,Flexible,3.9,Quality Control Certified
+605,Welding,Low,6,Cell Assembly,Evening,5.0,Quality Control Certified
+606,Welding,Medium,6,Pack Assembly,Morning,3.5,Certified Welder
+607,Automation,High,5,Pack Assembly,Evening,4.2,Mechanical Technician
+608,Mechanical Assembly,Low,4,Pack Assembly,Night,4.9,Electrical Engineer
+609,Soldering,High,4,Pack Assembly,Night,4.2,Certified Welder
+610,Electrical Wiring,Low,8,Cell Assembly,Flexible,3.5,None
+611,Mechanical Assembly,High,4,Cell Assembly,Morning,3.9,None
+612,Mechanical Assembly,High,8,Cell Assembly,Evening,3.2,Electrical Engineer
+613,Quality Inspection,Low,3,Cell Assembly,Flexible,3.1,Electrical Engineer
+614,Quality Inspection,Medium,6,Cell Assembly,Morning,3.6,None
+615,Quality Inspection,High,4,Final Testing,Evening,4.3,Electrical Engineer
+616,Packaging,High,2,Module Assembly,Morning,3.0,Mechanical Technician
+617,Packaging,High,7,Final Testing,Evening,3.4,Certified BMS Engineer
+618,Quality Inspection,High,3,Module Assembly,Evening,4.5,Quality Control Certified
+619,Packaging,High,2,Cell Assembly,Morning,3.5,Certified BMS Engineer
+620,Robotics,Medium,8,Final Testing,Night,3.7,Certified Welder
+621,Packaging,High,4,Final Testing,Flexible,3.6,None
+622,Electrical Wiring,Low,4,Cell Assembly,Evening,4.2,Certified BMS Engineer
+623,Electrical Wiring,Low,8,Final Testing,Morning,4.3,Certified Welder
+624,Electrical Wiring,Medium,7,Cell Assembly,Morning,4.5,Quality Control Certified
+625,Welding,Medium,2,Cell Assembly,Evening,3.6,Electrical Engineer
+626,Quality Inspection,Medium,3,Pack Assembly,Morning,4.4,None
+627,Robotics,High,6,Cell Assembly,Flexible,3.9,Mechanical Technician
+628,Robotics,Low,5,Module Assembly,Evening,4.8,Mechanical Technician
+629,Electrical Wiring,Low,1,Final Testing,Morning,3.6,Electrical Engineer
+630,Soldering,High,2,Pack Assembly,Evening,4.0,Quality Control Certified
+631,Welding,Low,4,Module Assembly,Evening,4.4,Certified BMS Engineer
+632,Automation,High,6,Cell Assembly,Morning,4.0,Certified BMS Engineer
+633,BMS Integration,High,5,Final Testing,Evening,4.6,None
+634,Welding,High,4,Cell Assembly,Flexible,3.4,Electrical Engineer
+635,Quality Inspection,High,2,Module Assembly,Flexible,3.4,Certified BMS Engineer
+636,Soldering,Medium,5,Pack Assembly,Night,4.9,Certified BMS Engineer
+637,Soldering,High,8,Module Assembly,Morning,4.5,Certified BMS Engineer
+638,Mechanical Assembly,Low,2,Module Assembly,Evening,4.4,Mechanical Technician
+639,Robotics,Medium,8,Final Testing,Evening,4.7,Quality Control Certified
+640,BMS Integration,Low,5,Final Testing,Evening,4.1,Certified BMS Engineer
+641,Robotics,Medium,1,Final Testing,Evening,4.3,Certified BMS Engineer
+642,Soldering,Low,4,Module Assembly,Night,4.5,Certified BMS Engineer
+643,Welding,Medium,7,Cell Assembly,Flexible,4.9,Certified BMS Engineer
+644,Packaging,Medium,6,Pack Assembly,Evening,3.6,Certified BMS Engineer
+645,BMS Integration,Low,6,Pack Assembly,Flexible,3.5,Certified Welder
+646,BMS Integration,Medium,1,Pack Assembly,Evening,4.2,Mechanical Technician
+647,Automation,Low,7,Module Assembly,Flexible,3.5,Electrical Engineer
+648,Quality Inspection,Medium,4,Cell Assembly,Night,4.6,Quality Control Certified
+649,Soldering,High,3,Cell Assembly,Flexible,4.2,None
+650,Packaging,Low,2,Module Assembly,Morning,4.9,None
+651,Quality Inspection,Medium,3,Cell Assembly,Flexible,4.0,Electrical Engineer
+652,Automation,High,8,Module Assembly,Morning,4.2,Mechanical Technician
+653,Quality Inspection,High,3,Module Assembly,Evening,4.0,Certified Welder
+654,Electrical Wiring,Low,3,Pack Assembly,Evening,4.6,Certified BMS Engineer
+655,Packaging,High,4,Cell Assembly,Morning,4.0,Quality Control Certified
+656,BMS Integration,Medium,5,Final Testing,Night,4.5,None
+657,Mechanical Assembly,High,8,Final Testing,Morning,3.2,Quality Control Certified
+658,BMS Integration,High,7,Cell Assembly,Night,3.1,Electrical Engineer
+659,Electrical Wiring,Medium,4,Cell Assembly,Flexible,4.8,Certified BMS Engineer
+660,Robotics,Low,5,Pack Assembly,Flexible,3.5,None
+661,Automation,High,2,Module Assembly,Night,4.4,None
+662,Automation,High,6,Cell Assembly,Evening,3.9,Certified Welder
+663,Quality Inspection,Low,5,Pack Assembly,Night,3.6,Certified BMS Engineer
+664,Quality Inspection,Medium,3,Cell Assembly,Night,3.5,Quality Control Certified
+665,Robotics,High,2,Final Testing,Night,3.5,None
+666,Robotics,High,4,Final Testing,Night,4.2,Certified BMS Engineer
+667,Electrical Wiring,Low,1,Final Testing,Morning,4.7,Quality Control Certified
+668,BMS Integration,High,3,Pack Assembly,Flexible,3.1,Electrical Engineer
+669,BMS Integration,Medium,5,Final Testing,Morning,4.9,Electrical Engineer
+670,Automation,Low,3,Module Assembly,Night,4.2,Electrical Engineer
+671,BMS Integration,High,7,Final Testing,Morning,4.2,Certified BMS Engineer
+672,Automation,High,5,Final Testing,Flexible,4.5,Electrical Engineer
+673,Automation,Low,3,Module Assembly,Evening,3.2,Certified BMS Engineer
+674,Welding,Medium,7,Module Assembly,Evening,3.6,Certified BMS Engineer
+675,BMS Integration,Medium,7,Module Assembly,Evening,3.5,None
+676,Robotics,Low,5,Final Testing,Night,3.5,Quality Control Certified
+677,Packaging,Low,7,Module Assembly,Night,3.4,Certified BMS Engineer
+678,Quality Inspection,Medium,4,Pack Assembly,Evening,4.7,Certified BMS Engineer
+679,Welding,Low,4,Final Testing,Flexible,3.2,Certified BMS Engineer
+680,Mechanical Assembly,Medium,7,Pack Assembly,Evening,3.1,Certified BMS Engineer
+681,Robotics,High,5,Pack Assembly,Morning,3.4,Mechanical Technician
+682,Quality Inspection,High,4,Module Assembly,Evening,3.9,Electrical Engineer
+683,Electrical Wiring,High,5,Cell Assembly,Morning,4.4,Certified BMS Engineer
+684,Packaging,High,7,Final Testing,Evening,3.1,Electrical Engineer
+685,Automation,Medium,5,Module Assembly,Flexible,3.4,Quality Control Certified
+686,Mechanical Assembly,Medium,1,Module Assembly,Evening,4.5,Certified Welder
+687,BMS Integration,Medium,2,Cell Assembly,Night,4.2,Electrical Engineer
+688,Electrical Wiring,Medium,3,Cell Assembly,Flexible,3.6,Electrical Engineer
+689,Packaging,Medium,8,Final Testing,Evening,3.9,Certified Welder
+690,Electrical Wiring,Medium,6,Cell Assembly,Night,4.4,Electrical Engineer
+691,BMS Integration,High,2,Module Assembly,Night,4.4,Mechanical Technician
+692,Packaging,Medium,7,Final Testing,Night,3.8,Certified Welder
+693,Packaging,High,8,Module Assembly,Night,3.2,Electrical Engineer
+694,Electrical Wiring,Low,4,Pack Assembly,Flexible,4.3,Mechanical Technician
+695,Automation,Low,2,Module Assembly,Evening,4.6,Electrical Engineer
+696,Automation,Medium,2,Module Assembly,Night,4.0,None
+697,Soldering,Low,1,Cell Assembly,Night,3.4,Certified Welder
+698,Quality Inspection,Medium,8,Cell Assembly,Evening,4.6,Mechanical Technician
+699,Automation,Low,8,Module Assembly,Evening,4.3,Certified BMS Engineer
+700,Electrical Wiring,Medium,4,Cell Assembly,Morning,3.3,None
+701,BMS Integration,Medium,7,Cell Assembly,Morning,4.9,Quality Control Certified
+702,Packaging,Medium,3,Module Assembly,Morning,4.7,Certified BMS Engineer
+703,Packaging,Low,3,Final Testing,Evening,4.2,None
+704,Automation,High,7,Final Testing,Evening,3.8,None
+705,Electrical Wiring,Low,8,Cell Assembly,Flexible,4.8,Certified BMS Engineer
+706,Packaging,Medium,6,Cell Assembly,Evening,4.6,None
+707,Electrical Wiring,Low,7,Pack Assembly,Evening,4.4,Certified BMS Engineer
+708,Robotics,Medium,4,Final Testing,Night,4.0,Mechanical Technician
+709,Robotics,High,3,Module Assembly,Flexible,4.2,Mechanical Technician
+710,Quality Inspection,Low,4,Cell Assembly,Flexible,4.2,Certified Welder
+711,Robotics,Low,4,Module Assembly,Evening,4.1,None
+712,Welding,Medium,7,Pack Assembly,Night,3.4,None
+713,Quality Inspection,High,2,Final Testing,Evening,3.4,Mechanical Technician
+714,Mechanical Assembly,High,1,Module Assembly,Flexible,4.2,Certified BMS Engineer
+715,Automation,High,8,Cell Assembly,Evening,3.1,Certified Welder
+716,BMS Integration,Low,7,Pack Assembly,Night,3.6,Mechanical Technician
+717,Mechanical Assembly,High,1,Final Testing,Morning,4.6,Electrical Engineer
+718,Mechanical Assembly,Low,2,Module Assembly,Flexible,4.0,Quality Control Certified
+719,Mechanical Assembly,High,1,Cell Assembly,Flexible,4.2,Certified Welder
+720,Welding,High,2,Module Assembly,Morning,4.8,Mechanical Technician
+721,BMS Integration,High,7,Final Testing,Flexible,3.9,Certified BMS Engineer
+722,Automation,Medium,6,Cell Assembly,Evening,4.2,Quality Control Certified
+723,Soldering,High,4,Module Assembly,Flexible,3.6,Mechanical Technician
+724,Robotics,High,7,Cell Assembly,Evening,3.9,Electrical Engineer
+725,Quality Inspection,High,4,Pack Assembly,Morning,3.7,None
+726,Packaging,Medium,1,Pack Assembly,Evening,3.9,Quality Control Certified
+727,Soldering,Low,1,Pack Assembly,Morning,3.9,Mechanical Technician
+728,Automation,High,8,Cell Assembly,Night,3.7,Mechanical Technician
+729,Electrical Wiring,High,8,Pack Assembly,Evening,3.9,Mechanical Technician
+730,Mechanical Assembly,Medium,2,Final Testing,Morning,4.4,Certified Welder
+731,Welding,Medium,5,Pack Assembly,Morning,3.1,None
+732,Mechanical Assembly,Low,5,Pack Assembly,Morning,4.4,Certified BMS Engineer
+733,Automation,Medium,1,Pack Assembly,Night,4.7,Certified BMS Engineer
+734,Mechanical Assembly,Medium,8,Module Assembly,Morning,3.4,Electrical Engineer
+735,Quality Inspection,Low,6,Pack Assembly,Flexible,4.0,Certified Welder
+736,Soldering,Low,8,Final Testing,Morning,3.1,None
+737,Quality Inspection,Medium,7,Module Assembly,Flexible,3.9,Certified BMS Engineer
+738,Soldering,High,8,Final Testing,Evening,3.1,Certified BMS Engineer
+739,Welding,High,7,Pack Assembly,Evening,4.3,Quality Control Certified
+740,BMS Integration,Medium,3,Cell Assembly,Flexible,3.9,Mechanical Technician
+741,Quality Inspection,High,4,Pack Assembly,Evening,4.2,Certified Welder
+742,BMS Integration,Medium,7,Cell Assembly,Night,3.9,Mechanical Technician
+743,Robotics,Low,4,Final Testing,Flexible,3.3,Quality Control Certified
+744,Mechanical Assembly,Medium,1,Final Testing,Night,4.4,Mechanical Technician
+745,Welding,Low,5,Cell Assembly,Flexible,3.1,Quality Control Certified
+746,BMS Integration,Low,6,Module Assembly,Evening,3.8,Certified BMS Engineer
+747,Soldering,Medium,8,Final Testing,Flexible,3.0,None
+748,Mechanical Assembly,Medium,3,Pack Assembly,Flexible,4.9,Certified Welder
+749,Electrical Wiring,Medium,8,Final Testing,Morning,4.3,Quality Control Certified
+750,Robotics,Medium,5,Final Testing,Flexible,4.4,Quality Control Certified
+751,Soldering,Medium,4,Pack Assembly,Flexible,4.7,Quality Control Certified
+752,Packaging,Medium,2,Module Assembly,Night,3.5,Certified BMS Engineer
+753,Automation,Medium,4,Module Assembly,Night,4.4,Mechanical Technician
+754,Soldering,Low,4,Pack Assembly,Night,4.5,Mechanical Technician
+755,BMS Integration,High,8,Final Testing,Evening,4.8,Quality Control Certified
+756,Automation,Medium,5,Cell Assembly,Flexible,4.6,Quality Control Certified
+757,Automation,Low,4,Final Testing,Flexible,3.8,None
+758,Robotics,High,3,Pack Assembly,Night,3.3,Mechanical Technician
+759,Mechanical Assembly,Low,2,Cell Assembly,Flexible,3.6,Mechanical Technician
+760,Welding,Medium,6,Final Testing,Morning,4.0,Mechanical Technician
+761,Soldering,Low,4,Pack Assembly,Flexible,4.7,Quality Control Certified
+762,Welding,High,7,Module Assembly,Night,3.4,Mechanical Technician
+763,Packaging,Medium,4,Module Assembly,Flexible,3.5,Mechanical Technician
+764,Welding,Low,3,Cell Assembly,Night,3.9,Certified Welder
+765,Automation,Medium,8,Module Assembly,Flexible,4.7,Certified BMS Engineer
+766,BMS Integration,High,1,Module Assembly,Morning,3.6,Certified Welder
+767,Electrical Wiring,Low,3,Module Assembly,Flexible,4.8,Mechanical Technician
+768,Automation,Medium,3,Cell Assembly,Evening,4.9,Mechanical Technician
+769,Packaging,Low,8,Cell Assembly,Night,3.1,Mechanical Technician
+770,Automation,Low,2,Pack Assembly,Flexible,4.1,Electrical Engineer
+771,Packaging,High,3,Pack Assembly,Flexible,4.1,Certified Welder
+772,Quality Inspection,Medium,1,Module Assembly,Evening,4.8,Certified BMS Engineer
+773,Automation,Medium,4,Module Assembly,Morning,3.0,Quality Control Certified
+774,Quality Inspection,Low,6,Module Assembly,Evening,4.0,Mechanical Technician
+775,Packaging,Medium,3,Final Testing,Night,3.6,Certified Welder
+776,Electrical Wiring,Medium,8,Final Testing,Evening,4.5,Certified BMS Engineer
+777,Soldering,Low,5,Pack Assembly,Morning,3.8,Certified BMS Engineer
+778,Mechanical Assembly,Medium,4,Final Testing,Morning,4.0,Electrical Engineer
+779,Robotics,Medium,2,Final Testing,Flexible,4.4,Certified BMS Engineer
+780,Quality Inspection,Medium,4,Pack Assembly,Night,3.2,None
+781,Mechanical Assembly,High,3,Cell Assembly,Night,3.2,Electrical Engineer
+782,BMS Integration,Low,2,Final Testing,Flexible,3.7,None
+783,Electrical Wiring,Medium,1,Module Assembly,Flexible,3.8,Certified BMS Engineer
+784,Mechanical Assembly,High,4,Cell Assembly,Evening,3.1,Certified Welder
+785,Welding,Low,8,Cell Assembly,Night,4.6,None
+786,Welding,Medium,6,Module Assembly,Night,5.0,Quality Control Certified
+787,Soldering,High,5,Module Assembly,Flexible,4.5,Certified Welder
+788,Welding,Low,2,Final Testing,Night,3.8,Electrical Engineer
+789,Packaging,Medium,2,Module Assembly,Flexible,3.2,Certified Welder
+790,Electrical Wiring,Medium,7,Cell Assembly,Flexible,4.1,Mechanical Technician
+791,Automation,High,6,Final Testing,Evening,4.0,Mechanical Technician
+792,Automation,Low,5,Cell Assembly,Evening,3.1,Electrical Engineer
+793,Electrical Wiring,Low,8,Pack Assembly,Evening,4.1,Electrical Engineer
+794,Welding,Medium,5,Module Assembly,Evening,3.2,None
+795,Electrical Wiring,High,6,Cell Assembly,Flexible,3.1,None
+796,BMS Integration,Low,7,Module Assembly,Evening,3.9,Certified BMS Engineer
+797,Quality Inspection,High,3,Final Testing,Morning,4.3,Electrical Engineer
+798,Electrical Wiring,Medium,7,Cell Assembly,Night,4.1,None
+799,Electrical Wiring,Low,4,Pack Assembly,Evening,3.1,Quality Control Certified
+800,BMS Integration,High,2,Cell Assembly,Morning,3.7,None
+801,Automation,Medium,1,Module Assembly,Night,4.2,Certified BMS Engineer
+802,Robotics,Medium,7,Cell Assembly,Evening,4.3,Certified BMS Engineer
+803,BMS Integration,High,8,Pack Assembly,Flexible,4.5,Certified BMS Engineer
+804,Mechanical Assembly,High,3,Module Assembly,Evening,4.3,None
+805,Automation,High,7,Module Assembly,Flexible,3.9,Certified Welder
+806,Packaging,Low,7,Cell Assembly,Evening,4.1,Certified BMS Engineer
+807,Automation,High,1,Final Testing,Evening,4.2,Mechanical Technician
+808,Robotics,Low,6,Module Assembly,Evening,4.7,Mechanical Technician
+809,Soldering,Medium,4,Final Testing,Morning,4.5,Certified Welder
+810,Welding,High,6,Pack Assembly,Evening,4.0,None
+811,Soldering,High,1,Final Testing,Morning,4.9,Certified Welder
+812,Soldering,Low,5,Module Assembly,Night,4.9,Quality Control Certified
+813,Electrical Wiring,High,4,Final Testing,Flexible,4.4,Electrical Engineer
+814,Robotics,Low,5,Pack Assembly,Morning,4.0,Mechanical Technician
+815,Mechanical Assembly,Low,8,Cell Assembly,Evening,3.8,Certified Welder
+816,Packaging,Medium,4,Module Assembly,Flexible,3.8,Mechanical Technician
+817,Mechanical Assembly,Low,6,Pack Assembly,Morning,4.8,Mechanical Technician
+818,Automation,Low,7,Module Assembly,Morning,4.0,Mechanical Technician
+819,Quality Inspection,Low,1,Pack Assembly,Flexible,3.6,None
+820,Welding,Medium,6,Module Assembly,Night,4.8,Electrical Engineer
+821,Packaging,Low,5,Final Testing,Flexible,3.9,Mechanical Technician
+822,Packaging,Medium,3,Cell Assembly,Evening,3.6,Mechanical Technician
+823,Mechanical Assembly,Medium,1,Final Testing,Morning,4.4,None
+824,Packaging,High,3,Cell Assembly,Morning,3.7,Certified Welder
+825,Robotics,High,2,Final Testing,Flexible,3.3,Certified Welder
+826,Automation,High,5,Cell Assembly,Flexible,4.8,Electrical Engineer
+827,Welding,Low,3,Final Testing,Night,4.0,Certified Welder
+828,Welding,Medium,8,Cell Assembly,Flexible,4.5,Quality Control Certified
+829,Robotics,Medium,4,Final Testing,Morning,4.0,Certified Welder
+830,Welding,Low,6,Final Testing,Evening,3.8,Certified BMS Engineer
+831,Robotics,Medium,2,Module Assembly,Flexible,3.9,Certified Welder
+832,Quality Inspection,Low,2,Module Assembly,Morning,4.1,Electrical Engineer
+833,Robotics,Low,5,Final Testing,Morning,4.5,Certified BMS Engineer
+834,Automation,Medium,1,Cell Assembly,Flexible,4.7,Mechanical Technician
+835,Quality Inspection,Medium,5,Pack Assembly,Morning,4.1,Mechanical Technician
+836,Quality Inspection,Medium,3,Module Assembly,Morning,3.6,Quality Control Certified
+837,Electrical Wiring,Low,1,Pack Assembly,Evening,3.6,Electrical Engineer
+838,Welding,Low,4,Final Testing,Night,4.0,Certified Welder
+839,Mechanical Assembly,Medium,4,Final Testing,Night,3.8,Electrical Engineer
+840,Packaging,Low,1,Final Testing,Flexible,4.2,Certified Welder
+841,Quality Inspection,High,8,Final Testing,Morning,4.3,Mechanical Technician
+842,Soldering,Low,1,Final Testing,Evening,3.5,Certified BMS Engineer
+843,Automation,Low,7,Cell Assembly,Evening,3.2,Mechanical Technician
+844,BMS Integration,Medium,4,Pack Assembly,Flexible,3.1,Quality Control Certified
+845,Robotics,Low,6,Module Assembly,Evening,3.0,Certified Welder
+846,Welding,High,6,Pack Assembly,Night,4.5,Certified BMS Engineer
+847,Quality Inspection,High,3,Cell Assembly,Flexible,3.1,Certified Welder
+848,BMS Integration,Low,8,Pack Assembly,Morning,4.5,None
+849,Electrical Wiring,High,6,Module Assembly,Night,3.3,Certified BMS Engineer
+850,BMS Integration,Low,4,Pack Assembly,Evening,3.2,Quality Control Certified
+851,Automation,Medium,7,Cell Assembly,Morning,3.3,Quality Control Certified
+852,Mechanical Assembly,Medium,7,Cell Assembly,Evening,4.3,None
+853,Quality Inspection,Low,6,Cell Assembly,Night,4.5,Certified Welder
+854,Welding,Low,4,Pack Assembly,Morning,3.6,None
+855,Welding,Medium,4,Pack Assembly,Night,4.9,None
+856,Automation,High,3,Cell Assembly,Flexible,3.0,Mechanical Technician
+857,Packaging,Medium,5,Module Assembly,Evening,4.1,Mechanical Technician
+858,Welding,High,7,Pack Assembly,Flexible,3.9,Certified BMS Engineer
+859,Packaging,Low,2,Final Testing,Night,4.2,Mechanical Technician
+860,Quality Inspection,Medium,5,Pack Assembly,Flexible,4.3,Certified BMS Engineer
+861,BMS Integration,Medium,8,Pack Assembly,Evening,4.9,None
+862,Robotics,Low,3,Final Testing,Morning,5.0,Certified BMS Engineer
+863,Welding,High,8,Cell Assembly,Night,3.4,Certified BMS Engineer
+864,Mechanical Assembly,High,7,Pack Assembly,Evening,4.6,Mechanical Technician
+865,Packaging,Low,3,Pack Assembly,Flexible,4.3,None
+866,Electrical Wiring,High,4,Final Testing,Night,3.2,Quality Control Certified
+867,Mechanical Assembly,High,5,Final Testing,Evening,3.6,Certified BMS Engineer
+868,Electrical Wiring,Low,5,Final Testing,Evening,4.7,Certified Welder
+869,Robotics,Low,5,Final Testing,Evening,3.3,Certified BMS Engineer
+870,Mechanical Assembly,High,3,Final Testing,Flexible,4.6,Electrical Engineer
+871,Automation,Low,2,Final Testing,Flexible,4.2,Quality Control Certified
+872,Automation,High,1,Module Assembly,Flexible,4.7,None
+873,Soldering,Low,8,Module Assembly,Flexible,4.5,None
+874,Quality Inspection,Medium,7,Pack Assembly,Night,4.4,Mechanical Technician
+875,Quality Inspection,Medium,6,Pack Assembly,Flexible,3.6,Quality Control Certified
+876,Soldering,Low,1,Module Assembly,Evening,4.1,Mechanical Technician
+877,Automation,Low,2,Final Testing,Flexible,4.3,None
+878,Mechanical Assembly,Medium,4,Final Testing,Evening,4.2,Certified BMS Engineer
+879,Packaging,Low,6,Cell Assembly,Evening,4.5,Certified BMS Engineer
+880,Automation,High,3,Cell Assembly,Evening,3.2,Certified Welder
+881,Quality Inspection,High,2,Module Assembly,Flexible,4.5,Electrical Engineer
+882,Packaging,Low,6,Cell Assembly,Morning,4.1,Certified BMS Engineer
+883,Packaging,Low,7,Final Testing,Morning,4.9,None
+884,Packaging,High,7,Module Assembly,Morning,4.2,Electrical Engineer
+885,Welding,Low,6,Cell Assembly,Morning,4.5,Mechanical Technician
+886,Soldering,Low,3,Pack Assembly,Night,3.5,Quality Control Certified
+887,Mechanical Assembly,Low,6,Cell Assembly,Morning,3.7,Certified Welder
+888,Soldering,Low,2,Module Assembly,Flexible,4.1,Electrical Engineer
+889,Mechanical Assembly,Medium,1,Final Testing,Flexible,4.2,None
+890,BMS Integration,Medium,4,Pack Assembly,Flexible,4.8,Mechanical Technician
+891,Quality Inspection,Low,6,Cell Assembly,Evening,3.6,Certified Welder
+892,Soldering,High,8,Cell Assembly,Night,3.8,Certified BMS Engineer
+893,BMS Integration,High,8,Module Assembly,Night,4.5,Mechanical Technician
+894,Quality Inspection,Low,1,Pack Assembly,Evening,4.2,Certified BMS Engineer
+895,Welding,High,7,Final Testing,Flexible,5.0,Certified Welder
+896,Robotics,Medium,3,Pack Assembly,Flexible,4.7,Certified BMS Engineer
+897,Welding,Medium,1,Final Testing,Night,4.3,Electrical Engineer
+898,Electrical Wiring,Medium,3,Pack Assembly,Morning,3.5,Electrical Engineer
+899,Mechanical Assembly,Medium,1,Pack Assembly,Evening,4.9,Electrical Engineer
+900,Automation,Medium,8,Module Assembly,Evening,3.9,Electrical Engineer
+901,Welding,Low,1,Cell Assembly,Night,3.3,None
+902,Mechanical Assembly,Medium,3,Pack Assembly,Morning,4.0,Certified BMS Engineer
+903,BMS Integration,Medium,7,Module Assembly,Flexible,4.8,Certified BMS Engineer
+904,Electrical Wiring,Medium,5,Module Assembly,Flexible,4.3,Mechanical Technician
+905,Automation,High,5,Module Assembly,Morning,4.2,Electrical Engineer
+906,BMS Integration,Low,5,Pack Assembly,Night,4.3,Mechanical Technician
+907,Welding,Medium,6,Pack Assembly,Flexible,3.2,Electrical Engineer
+908,Welding,Low,5,Pack Assembly,Evening,3.5,Quality Control Certified
+909,Quality Inspection,High,1,Final Testing,Morning,3.0,Mechanical Technician
+910,BMS Integration,Low,6,Pack Assembly,Morning,4.8,Certified Welder
+911,Welding,Low,6,Final Testing,Flexible,4.8,None
+912,Welding,Low,7,Module Assembly,Morning,3.7,None
+913,Robotics,Low,5,Final Testing,Morning,3.9,Quality Control Certified
+914,BMS Integration,High,8,Pack Assembly,Night,3.0,Electrical Engineer
+915,Robotics,High,6,Cell Assembly,Night,4.2,Certified Welder
+916,Welding,Low,2,Final Testing,Evening,3.9,Quality Control Certified
+917,Quality Inspection,Medium,7,Pack Assembly,Evening,3.6,Certified BMS Engineer
+918,BMS Integration,Medium,3,Final Testing,Night,4.5,Certified Welder
+919,Packaging,Low,3,Module Assembly,Morning,4.7,Electrical Engineer
+920,Packaging,Low,4,Final Testing,Flexible,3.1,Mechanical Technician
+921,Welding,Low,4,Cell Assembly,Night,3.2,Mechanical Technician
+922,Electrical Wiring,High,1,Cell Assembly,Morning,4.6,Quality Control Certified
+923,Packaging,High,7,Final Testing,Evening,4.1,Certified BMS Engineer
+924,Packaging,Low,5,Final Testing,Night,4.5,Quality Control Certified
+925,Welding,Medium,2,Final Testing,Flexible,4.2,Certified Welder
+926,BMS Integration,Medium,6,Cell Assembly,Evening,3.3,Certified Welder
+927,Quality Inspection,Low,2,Module Assembly,Evening,3.5,Electrical Engineer
+928,Welding,High,8,Module Assembly,Evening,3.4,Certified Welder
+929,Mechanical Assembly,Low,3,Pack Assembly,Flexible,4.5,Certified Welder
+930,Robotics,Medium,8,Cell Assembly,Evening,4.9,Electrical Engineer
+931,Packaging,Medium,8,Module Assembly,Evening,3.7,Certified BMS Engineer
+932,Soldering,Low,1,Pack Assembly,Night,4.2,None
+933,Robotics,Low,8,Pack Assembly,Evening,4.0,None
+934,BMS Integration,Low,8,Pack Assembly,Evening,3.8,None
+935,BMS Integration,Low,6,Cell Assembly,Night,4.7,Certified Welder
+936,Electrical Wiring,Medium,5,Pack Assembly,Flexible,3.8,Quality Control Certified
+937,Packaging,High,5,Final Testing,Morning,4.5,Certified Welder
+938,Mechanical Assembly,Low,6,Pack Assembly,Morning,3.2,Quality Control Certified
+939,Mechanical Assembly,Medium,7,Pack Assembly,Flexible,3.6,Certified BMS Engineer
+940,Quality Inspection,High,8,Cell Assembly,Evening,4.4,None
+941,Welding,High,8,Final Testing,Flexible,3.5,Mechanical Technician
+942,Soldering,High,3,Final Testing,Evening,3.5,None
+943,Robotics,High,2,Module Assembly,Flexible,4.0,Certified Welder
+944,Automation,High,4,Pack Assembly,Morning,3.6,Mechanical Technician
+945,BMS Integration,Low,1,Module Assembly,Flexible,4.0,Certified Welder
+946,Quality Inspection,High,5,Final Testing,Night,4.0,None
+947,Welding,High,8,Module Assembly,Evening,4.7,Certified BMS Engineer
+948,Mechanical Assembly,Low,2,Module Assembly,Flexible,3.5,Certified Welder
+949,Mechanical Assembly,Low,3,Final Testing,Morning,3.1,Electrical Engineer
+950,Robotics,High,2,Module Assembly,Evening,4.4,Certified Welder
+951,Soldering,Medium,5,Module Assembly,Morning,3.3,None
+952,Packaging,High,1,Pack Assembly,Morning,4.4,Electrical Engineer
+953,Packaging,Medium,2,Cell Assembly,Flexible,4.4,Electrical Engineer
+954,Robotics,Low,7,Final Testing,Night,3.0,None
+955,Robotics,Medium,1,Cell Assembly,Evening,3.8,Quality Control Certified
+956,Soldering,Medium,2,Final Testing,Morning,4.5,None
+957,Welding,Low,8,Final Testing,Evening,4.6,None
+958,BMS Integration,Medium,2,Final Testing,Night,3.9,Quality Control Certified
+959,Electrical Wiring,Low,4,Pack Assembly,Morning,4.9,Mechanical Technician
+960,Quality Inspection,High,6,Final Testing,Morning,4.1,Mechanical Technician
+961,Quality Inspection,Low,7,Module Assembly,Evening,4.6,Quality Control Certified
+962,Welding,Low,2,Final Testing,Night,4.1,Mechanical Technician
+963,Soldering,Low,5,Module Assembly,Flexible,4.3,None
+964,Automation,Medium,7,Pack Assembly,Evening,3.6,None
+965,Soldering,Low,3,Pack Assembly,Evening,4.7,Electrical Engineer
+966,Robotics,High,7,Cell Assembly,Night,4.0,Quality Control Certified
+967,Mechanical Assembly,High,7,Module Assembly,Morning,3.4,Quality Control Certified
+968,Robotics,Medium,5,Module Assembly,Flexible,3.5,None
+969,Automation,Medium,1,Cell Assembly,Evening,4.9,Quality Control Certified
+970,Soldering,High,4,Module Assembly,Flexible,3.8,Electrical Engineer
+971,Quality Inspection,High,3,Pack Assembly,Evening,4.7,Quality Control Certified
+972,Robotics,Low,4,Module Assembly,Morning,3.8,Mechanical Technician
+973,Automation,Medium,7,Cell Assembly,Morning,3.6,Electrical Engineer
+974,Packaging,High,5,Final Testing,Morning,3.2,Certified BMS Engineer
+975,Welding,Medium,2,Module Assembly,Evening,3.7,Certified Welder
+976,Mechanical Assembly,Medium,7,Module Assembly,Morning,3.6,Electrical Engineer
+977,Welding,Medium,7,Final Testing,Flexible,4.0,Quality Control Certified
+978,Electrical Wiring,Low,7,Final Testing,Night,4.5,Quality Control Certified
+979,Soldering,Low,7,Pack Assembly,Night,4.8,Certified Welder
+980,Quality Inspection,High,1,Final Testing,Flexible,3.3,None
+981,Robotics,High,3,Cell Assembly,Evening,3.4,Quality Control Certified
+982,Soldering,Low,2,Final Testing,Morning,3.8,Certified Welder
+983,Mechanical Assembly,High,2,Cell Assembly,Morning,3.2,Mechanical Technician
+984,Robotics,Medium,8,Module Assembly,Flexible,4.1,Electrical Engineer
+985,Welding,High,2,Cell Assembly,Evening,4.2,Mechanical Technician
+986,BMS Integration,High,2,Pack Assembly,Evening,3.2,None
+987,Packaging,Medium,7,Final Testing,Night,3.9,None
+988,Robotics,High,6,Final Testing,Evening,4.7,Certified Welder
+989,Mechanical Assembly,Low,7,Pack Assembly,Morning,4.6,None
+990,Automation,Low,6,Module Assembly,Evening,4.8,Quality Control Certified
+991,Electrical Wiring,High,7,Cell Assembly,Night,3.1,Quality Control Certified
+992,Packaging,High,1,Cell Assembly,Flexible,4.5,Certified BMS Engineer
+993,Soldering,Low,2,Module Assembly,Evening,3.8,Quality Control Certified
+994,Mechanical Assembly,Low,1,Pack Assembly,Morning,3.1,Certified BMS Engineer
+995,Welding,High,5,Cell Assembly,Evening,4.8,Certified Welder
+996,Automation,Medium,8,Module Assembly,Morning,3.1,Mechanical Technician
+997,Welding,Low,8,Cell Assembly,Evening,3.3,Quality Control Certified
+998,Quality Inspection,High,4,Module Assembly,Flexible,4.4,Electrical Engineer
+999,BMS Integration,Low,3,Pack Assembly,Night,4.5,Mechanical Technician
+1000,BMS Integration,Medium,5,Cell Assembly,Flexible,4.2,Certified BMS Engineer

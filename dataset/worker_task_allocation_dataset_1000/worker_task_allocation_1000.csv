@@ -1,0 +1,1001 @@
+Worker ID,Skill Category,Skill Level,Years of Experience,Current Task Assigned,Shift Availability,Performance Rating,Certifications,Task Skills Required,Task Priority,Workload for Shift
+1,Quality Inspection,Low,3,Cell Assembly,Flexible,4.3,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+2,Electrical Wiring,High,1,Pack Assembly,Flexible,4.7,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+3,Electrical Wiring,High,6,Module Assembly,Morning,4.9,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+4,Robotics,Low,1,Pack Assembly,Night,3.1,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+5,Electrical Wiring,Low,1,Cell Assembly,Evening,3.6,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+6,BMS Integration,High,3,Module Assembly,Flexible,4.9,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+7,BMS Integration,High,6,Final Testing,Night,4.8,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+8,Soldering,Low,8,Cell Assembly,Morning,3.6,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+9,Automation,Medium,7,Cell Assembly,Flexible,4.4,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+10,BMS Integration,Medium,1,Module Assembly,Evening,4.7,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+11,Electrical Wiring,Medium,5,Cell Assembly,Night,4.9,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+12,BMS Integration,High,8,Final Testing,Night,4.6,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+13,Soldering,Low,2,Final Testing,Morning,3.0,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+14,Mechanical Assembly,Low,7,Cell Assembly,Morning,3.8,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+15,Robotics,Low,6,Pack Assembly,Flexible,3.6,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+16,Soldering,High,7,Module Assembly,Morning,3.1,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+17,Mechanical Assembly,Low,1,Final Testing,Evening,4.4,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+18,Mechanical Assembly,Low,8,Cell Assembly,Night,3.3,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+19,Automation,Low,6,Pack Assembly,Night,4.5,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+20,Mechanical Assembly,High,5,Module Assembly,Morning,4.4,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+21,Electrical Wiring,Medium,4,Module Assembly,Flexible,3.6,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+22,Quality Inspection,Low,4,Pack Assembly,Evening,4.2,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+23,Automation,Medium,1,Final Testing,Morning,4.4,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+24,Packaging,High,6,Pack Assembly,Evening,4.7,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+25,Packaging,Low,6,Module Assembly,Flexible,4.8,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+26,Soldering,Low,3,Pack Assembly,Evening,5.0,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+27,Quality Inspection,Medium,6,Module Assembly,Morning,4.7,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+28,Welding,Medium,7,Module Assembly,Night,4.1,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+29,Automation,Low,8,Cell Assembly,Evening,3.4,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+30,Electrical Wiring,Medium,7,Pack Assembly,Flexible,3.4,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+31,Quality Inspection,Medium,5,Module Assembly,Morning,4.9,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+32,Electrical Wiring,Medium,1,Final Testing,Flexible,4.0,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+33,BMS Integration,Medium,6,Cell Assembly,Night,4.8,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+34,Quality Inspection,Medium,5,Final Testing,Flexible,3.7,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+35,BMS Integration,Medium,6,Cell Assembly,Morning,4.0,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+36,Soldering,High,5,Cell Assembly,Evening,3.8,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+37,BMS Integration,Low,6,Final Testing,Morning,3.2,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+38,Automation,Low,2,Module Assembly,Night,3.4,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+39,Welding,High,6,Final Testing,Evening,3.0,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+40,Electrical Wiring,Low,8,Final Testing,Flexible,3.8,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+41,Electrical Wiring,Medium,3,Module Assembly,Night,3.6,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+42,Soldering,High,6,Module Assembly,Night,3.1,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+43,Electrical Wiring,High,7,Module Assembly,Morning,3.2,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+44,Automation,Low,7,Cell Assembly,Flexible,4.8,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+45,Robotics,Medium,3,Final Testing,Night,4.5,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+46,Mechanical Assembly,High,2,Module Assembly,Evening,4.5,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+47,Welding,High,8,Pack Assembly,Evening,4.0,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+48,Automation,Medium,4,Module Assembly,Flexible,4.2,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+49,Quality Inspection,Medium,2,Pack Assembly,Flexible,3.7,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+50,Welding,High,6,Cell Assembly,Night,4.3,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+51,Automation,High,2,Module Assembly,Morning,4.5,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+52,Welding,High,2,Module Assembly,Flexible,4.6,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+53,Packaging,High,2,Final Testing,Evening,4.3,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+54,Soldering,High,4,Final Testing,Evening,3.3,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+55,BMS Integration,Medium,6,Pack Assembly,Evening,4.1,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+56,Welding,High,3,Module Assembly,Night,4.2,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+57,Welding,Medium,6,Final Testing,Flexible,4.1,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+58,Quality Inspection,Medium,4,Final Testing,Evening,3.1,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+59,Welding,High,4,Module Assembly,Flexible,3.4,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+60,BMS Integration,High,3,Pack Assembly,Night,3.7,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+61,Welding,Medium,6,Cell Assembly,Morning,3.7,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+62,Automation,High,6,Cell Assembly,Night,4.6,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+63,Packaging,High,3,Module Assembly,Morning,3.5,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+64,Electrical Wiring,High,7,Final Testing,Morning,4.2,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+65,Electrical Wiring,Low,2,Cell Assembly,Morning,3.0,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+66,Quality Inspection,Low,1,Final Testing,Flexible,3.5,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+67,Robotics,Medium,3,Final Testing,Flexible,3.1,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+68,Welding,Low,3,Final Testing,Flexible,4.8,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+69,Welding,High,2,Pack Assembly,Flexible,4.4,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+70,Soldering,Low,4,Cell Assembly,Morning,4.0,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+71,Soldering,Low,2,Module Assembly,Night,4.9,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+72,Robotics,Medium,5,Final Testing,Evening,4.2,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+73,Quality Inspection,Low,6,Cell Assembly,Morning,3.2,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+74,Soldering,Medium,3,Module Assembly,Evening,3.9,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+75,Robotics,High,1,Cell Assembly,Morning,3.1,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+76,Quality Inspection,Low,4,Module Assembly,Evening,3.6,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+77,Soldering,Low,7,Module Assembly,Night,4.8,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+78,Welding,Low,5,Final Testing,Flexible,4.5,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+79,Quality Inspection,High,1,Module Assembly,Night,4.4,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+80,Welding,High,8,Module Assembly,Night,3.1,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+81,Soldering,High,2,Cell Assembly,Flexible,4.5,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+82,Robotics,High,2,Final Testing,Flexible,4.4,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+83,Electrical Wiring,Medium,8,Module Assembly,Flexible,4.3,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+84,Quality Inspection,Low,6,Module Assembly,Flexible,4.4,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+85,Quality Inspection,High,2,Module Assembly,Morning,4.0,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+86,Automation,High,2,Pack Assembly,Night,4.9,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+87,Packaging,Medium,2,Module Assembly,Evening,3.1,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+88,Soldering,Low,4,Final Testing,Morning,3.9,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+89,Automation,High,8,Module Assembly,Evening,3.8,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+90,Robotics,Low,4,Cell Assembly,Evening,3.1,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+91,Robotics,High,1,Pack Assembly,Evening,4.6,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+92,Mechanical Assembly,High,2,Final Testing,Flexible,3.9,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+93,Packaging,Medium,8,Pack Assembly,Evening,4.4,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+94,Quality Inspection,High,3,Cell Assembly,Flexible,4.0,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+95,Electrical Wiring,High,1,Module Assembly,Night,3.4,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+96,BMS Integration,High,6,Cell Assembly,Night,4.0,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+97,Soldering,Low,6,Module Assembly,Evening,4.7,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+98,Electrical Wiring,Medium,6,Pack Assembly,Morning,3.8,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+99,BMS Integration,Medium,6,Cell Assembly,Evening,3.1,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+100,Quality Inspection,Low,1,Final Testing,Night,3.7,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+101,Electrical Wiring,Medium,6,Module Assembly,Evening,4.3,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+102,Electrical Wiring,Low,1,Module Assembly,Morning,3.5,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+103,Welding,High,2,Final Testing,Evening,4.7,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+104,Mechanical Assembly,Medium,8,Final Testing,Flexible,5.0,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+105,Packaging,Medium,7,Module Assembly,Night,4.1,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+106,Packaging,Medium,5,Cell Assembly,Night,4.1,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+107,Mechanical Assembly,Low,3,Cell Assembly,Morning,4.6,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+108,Soldering,Medium,7,Cell Assembly,Evening,3.8,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+109,Soldering,Low,5,Pack Assembly,Night,3.7,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+110,Welding,Low,3,Module Assembly,Morning,4.5,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+111,Electrical Wiring,High,1,Module Assembly,Night,4.3,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+112,Automation,High,2,Pack Assembly,Night,4.1,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+113,Electrical Wiring,Medium,4,Final Testing,Evening,3.4,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+114,Mechanical Assembly,High,1,Cell Assembly,Evening,3.1,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+115,Soldering,Low,3,Module Assembly,Morning,3.1,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+116,Welding,Medium,2,Cell Assembly,Night,4.4,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+117,Quality Inspection,Medium,3,Pack Assembly,Morning,4.2,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+118,Packaging,High,2,Cell Assembly,Flexible,4.8,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+119,Robotics,Medium,3,Cell Assembly,Flexible,3.4,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+120,Robotics,High,7,Pack Assembly,Flexible,3.9,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+121,Robotics,Low,2,Pack Assembly,Night,3.4,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+122,Quality Inspection,High,7,Cell Assembly,Evening,4.3,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+123,Electrical Wiring,Low,3,Final Testing,Night,3.7,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+124,Mechanical Assembly,Low,6,Final Testing,Evening,4.4,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+125,Packaging,Medium,2,Cell Assembly,Evening,3.4,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+126,Welding,Medium,5,Cell Assembly,Night,3.9,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+127,Mechanical Assembly,Low,5,Pack Assembly,Night,5.0,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+128,Robotics,High,3,Final Testing,Flexible,3.9,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+129,Soldering,Medium,1,Final Testing,Morning,4.6,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+130,BMS Integration,Low,2,Cell Assembly,Night,3.8,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+131,Welding,Medium,6,Pack Assembly,Evening,4.7,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+132,Mechanical Assembly,Low,4,Final Testing,Flexible,3.8,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+133,Quality Inspection,High,3,Cell Assembly,Morning,3.4,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+134,BMS Integration,Medium,6,Cell Assembly,Night,3.3,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+135,BMS Integration,High,1,Pack Assembly,Night,3.1,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+136,Welding,High,2,Final Testing,Flexible,4.2,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+137,Mechanical Assembly,High,5,Module Assembly,Flexible,4.5,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+138,Mechanical Assembly,Low,4,Pack Assembly,Night,3.6,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+139,Robotics,Medium,3,Final Testing,Night,3.3,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+140,Soldering,Low,3,Final Testing,Night,3.3,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+141,Quality Inspection,High,8,Module Assembly,Flexible,3.7,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+142,Automation,High,4,Final Testing,Night,4.6,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+143,Electrical Wiring,Medium,1,Cell Assembly,Flexible,4.9,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+144,Mechanical Assembly,Low,6,Module Assembly,Evening,4.1,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+145,Robotics,Low,7,Final Testing,Flexible,4.8,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+146,Welding,High,8,Cell Assembly,Night,3.7,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+147,Quality Inspection,Low,3,Cell Assembly,Night,4.1,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+148,Electrical Wiring,Low,4,Module Assembly,Evening,4.8,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+149,Robotics,Low,1,Final Testing,Evening,4.7,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+150,Electrical Wiring,Medium,4,Pack Assembly,Evening,4.8,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+151,BMS Integration,High,1,Final Testing,Night,3.5,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+152,Packaging,Medium,8,Final Testing,Night,4.4,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+153,Electrical Wiring,Low,5,Module Assembly,Evening,3.8,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+154,Packaging,Medium,5,Cell Assembly,Flexible,3.4,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+155,BMS Integration,Low,3,Module Assembly,Flexible,3.2,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+156,Welding,Medium,3,Module Assembly,Morning,3.7,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+157,Welding,Medium,1,Final Testing,Evening,4.7,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+158,Packaging,Low,1,Pack Assembly,Flexible,4.7,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+159,Soldering,High,8,Cell Assembly,Night,3.3,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+160,Mechanical Assembly,Low,3,Cell Assembly,Morning,3.4,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+161,Electrical Wiring,Low,3,Final Testing,Evening,3.3,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+162,Soldering,Medium,3,Pack Assembly,Night,4.0,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+163,Robotics,High,3,Cell Assembly,Flexible,3.7,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+164,Soldering,High,5,Final Testing,Evening,4.7,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+165,Automation,Medium,8,Module Assembly,Flexible,4.9,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+166,Soldering,Low,2,Module Assembly,Flexible,3.7,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+167,Electrical Wiring,Medium,8,Final Testing,Morning,4.3,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+168,BMS Integration,High,4,Pack Assembly,Evening,3.5,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+169,Automation,Medium,1,Final Testing,Morning,4.8,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+170,Mechanical Assembly,Medium,3,Pack Assembly,Flexible,4.6,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+171,Soldering,Medium,8,Final Testing,Evening,3.9,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+172,BMS Integration,Medium,7,Pack Assembly,Evening,3.5,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+173,Packaging,Medium,3,Cell Assembly,Flexible,3.9,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+174,Mechanical Assembly,High,4,Cell Assembly,Night,3.3,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+175,Automation,Medium,3,Pack Assembly,Night,4.8,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+176,BMS Integration,High,7,Cell Assembly,Flexible,3.4,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+177,Packaging,Medium,2,Module Assembly,Morning,4.4,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+178,Electrical Wiring,High,3,Pack Assembly,Flexible,3.3,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+179,Welding,Low,5,Cell Assembly,Night,3.7,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+180,Soldering,High,1,Cell Assembly,Evening,4.2,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+181,Soldering,High,1,Module Assembly,Flexible,3.0,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+182,Mechanical Assembly,High,5,Module Assembly,Evening,4.9,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+183,Mechanical Assembly,High,6,Module Assembly,Night,3.9,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+184,Automation,High,6,Cell Assembly,Flexible,4.5,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+185,Automation,High,2,Cell Assembly,Night,3.5,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+186,Mechanical Assembly,Medium,2,Pack Assembly,Flexible,4.5,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+187,Robotics,Low,1,Cell Assembly,Flexible,4.1,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+188,Electrical Wiring,Medium,4,Pack Assembly,Morning,4.6,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+189,Quality Inspection,Low,3,Cell Assembly,Flexible,4.8,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+190,Automation,High,1,Module Assembly,Flexible,4.4,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+191,Welding,Low,8,Pack Assembly,Night,4.9,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+192,Packaging,High,6,Final Testing,Morning,3.9,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+193,Packaging,High,8,Cell Assembly,Night,3.8,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+194,Quality Inspection,Medium,4,Pack Assembly,Night,3.5,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+195,BMS Integration,Medium,4,Pack Assembly,Flexible,3.1,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+196,Automation,High,5,Module Assembly,Evening,4.5,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+197,Mechanical Assembly,High,4,Cell Assembly,Night,4.1,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+198,Soldering,High,7,Final Testing,Evening,3.6,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+199,Packaging,Medium,5,Cell Assembly,Night,3.1,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+200,Welding,High,4,Module Assembly,Evening,3.7,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+201,Quality Inspection,High,8,Final Testing,Night,4.6,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+202,Mechanical Assembly,Medium,7,Final Testing,Morning,4.3,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+203,Welding,Medium,8,Module Assembly,Flexible,3.7,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+204,Quality Inspection,High,3,Cell Assembly,Evening,3.8,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+205,Packaging,High,1,Final Testing,Evening,3.4,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+206,Welding,High,4,Cell Assembly,Flexible,4.6,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+207,Automation,High,6,Pack Assembly,Flexible,3.4,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+208,BMS Integration,Low,3,Cell Assembly,Flexible,3.3,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+209,Mechanical Assembly,High,3,Pack Assembly,Flexible,4.0,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+210,Welding,High,3,Cell Assembly,Evening,4.7,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+211,Automation,Medium,3,Module Assembly,Flexible,4.0,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+212,Mechanical Assembly,Medium,7,Final Testing,Evening,3.4,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+213,Automation,Low,3,Cell Assembly,Evening,3.4,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+214,Mechanical Assembly,Low,2,Final Testing,Flexible,4.6,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+215,Quality Inspection,Medium,6,Module Assembly,Night,4.1,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+216,Electrical Wiring,Low,8,Pack Assembly,Night,3.6,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+217,Robotics,High,3,Module Assembly,Morning,3.5,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+218,Robotics,Medium,8,Module Assembly,Morning,3.8,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+219,Soldering,Low,4,Final Testing,Flexible,3.0,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+220,Mechanical Assembly,Medium,4,Module Assembly,Night,3.3,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+221,Robotics,High,1,Pack Assembly,Flexible,3.6,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+222,Soldering,Medium,1,Cell Assembly,Flexible,4.0,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+223,Welding,High,6,Cell Assembly,Evening,4.8,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+224,Robotics,High,3,Cell Assembly,Morning,5.0,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+225,Mechanical Assembly,Low,5,Module Assembly,Morning,3.5,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+226,Mechanical Assembly,Low,4,Final Testing,Flexible,4.3,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+227,Automation,High,8,Cell Assembly,Evening,4.5,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+228,Automation,Low,2,Module Assembly,Evening,3.8,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+229,Automation,High,2,Pack Assembly,Evening,4.0,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+230,Electrical Wiring,Medium,6,Cell Assembly,Evening,4.0,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+231,Electrical Wiring,Medium,1,Module Assembly,Morning,3.7,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+232,Packaging,Low,3,Final Testing,Night,3.7,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+233,Packaging,High,8,Pack Assembly,Flexible,4.8,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+234,Quality Inspection,High,3,Final Testing,Evening,4.6,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+235,BMS Integration,Low,1,Final Testing,Morning,4.2,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+236,Automation,Low,1,Cell Assembly,Night,3.1,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+237,Robotics,High,3,Module Assembly,Flexible,3.0,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+238,BMS Integration,High,3,Cell Assembly,Evening,3.9,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+239,BMS Integration,Low,8,Pack Assembly,Morning,4.8,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+240,Quality Inspection,High,4,Cell Assembly,Evening,4.9,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+241,Automation,High,8,Cell Assembly,Morning,4.2,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+242,Electrical Wiring,Low,8,Pack Assembly,Morning,3.2,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+243,Welding,Low,5,Module Assembly,Evening,4.8,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+244,Electrical Wiring,Low,5,Final Testing,Evening,4.5,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+245,Robotics,Low,2,Module Assembly,Flexible,3.4,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+246,Quality Inspection,Low,8,Pack Assembly,Flexible,3.8,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+247,BMS Integration,Low,3,Module Assembly,Flexible,4.6,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+248,Soldering,High,4,Cell Assembly,Evening,3.0,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+249,Soldering,High,2,Final Testing,Night,3.4,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+250,Robotics,Medium,4,Module Assembly,Night,4.1,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+251,Soldering,High,3,Cell Assembly,Flexible,4.1,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+252,Robotics,High,4,Pack Assembly,Evening,4.3,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+253,Mechanical Assembly,High,7,Module Assembly,Evening,3.5,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+254,Robotics,Low,7,Module Assembly,Night,3.9,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+255,Electrical Wiring,Medium,5,Module Assembly,Flexible,4.9,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+256,BMS Integration,High,7,Cell Assembly,Night,4.1,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+257,Packaging,Low,3,Module Assembly,Flexible,3.1,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+258,Electrical Wiring,Low,6,Pack Assembly,Night,4.7,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+259,Soldering,Medium,6,Final Testing,Evening,4.9,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+260,Robotics,High,5,Final Testing,Night,4.4,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+261,Mechanical Assembly,Medium,5,Cell Assembly,Night,4.5,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+262,Robotics,High,1,Cell Assembly,Evening,3.3,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+263,Soldering,Medium,1,Module Assembly,Night,3.5,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+264,Quality Inspection,High,1,Pack Assembly,Night,3.7,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+265,Electrical Wiring,High,1,Cell Assembly,Night,4.9,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+266,Quality Inspection,Medium,4,Pack Assembly,Evening,4.4,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+267,Packaging,Low,6,Module Assembly,Evening,5.0,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+268,Robotics,High,2,Final Testing,Evening,4.1,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+269,BMS Integration,Medium,8,Pack Assembly,Evening,3.7,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+270,Robotics,High,6,Cell Assembly,Night,3.7,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+271,Welding,Medium,6,Cell Assembly,Evening,3.5,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+272,Mechanical Assembly,High,3,Cell Assembly,Night,3.0,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+273,BMS Integration,High,7,Pack Assembly,Evening,3.9,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+274,Quality Inspection,High,2,Module Assembly,Night,3.9,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+275,Quality Inspection,High,1,Module Assembly,Morning,3.4,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+276,Packaging,Low,8,Final Testing,Morning,4.3,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+277,Electrical Wiring,High,5,Module Assembly,Evening,3.6,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+278,Mechanical Assembly,High,2,Pack Assembly,Flexible,4.8,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+279,Mechanical Assembly,High,6,Final Testing,Evening,4.6,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+280,Electrical Wiring,Low,8,Module Assembly,Evening,4.4,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+281,Packaging,High,5,Pack Assembly,Evening,4.1,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+282,Soldering,High,6,Module Assembly,Evening,4.8,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+283,Mechanical Assembly,Low,6,Module Assembly,Flexible,4.0,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+284,Robotics,High,1,Cell Assembly,Evening,4.6,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+285,Automation,High,7,Cell Assembly,Morning,4.4,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+286,Quality Inspection,Medium,1,Pack Assembly,Night,4.5,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+287,BMS Integration,Low,3,Final Testing,Night,3.7,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+288,Electrical Wiring,Low,8,Final Testing,Flexible,4.3,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+289,Quality Inspection,Medium,1,Final Testing,Flexible,4.7,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+290,Welding,High,2,Cell Assembly,Night,4.2,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+291,Electrical Wiring,Low,7,Cell Assembly,Evening,4.6,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+292,Quality Inspection,Low,8,Pack Assembly,Evening,4.5,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+293,Mechanical Assembly,Low,5,Final Testing,Morning,5.0,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+294,BMS Integration,Low,5,Cell Assembly,Morning,4.3,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+295,Robotics,High,2,Final Testing,Evening,5.0,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+296,Automation,Medium,4,Final Testing,Morning,3.7,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+297,Robotics,High,3,Cell Assembly,Evening,4.0,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+298,BMS Integration,Medium,8,Pack Assembly,Flexible,4.9,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+299,Soldering,Low,6,Module Assembly,Flexible,4.3,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+300,Electrical Wiring,Low,3,Final Testing,Night,4.2,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+301,Automation,Low,4,Pack Assembly,Evening,4.0,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+302,Electrical Wiring,Medium,2,Final Testing,Evening,3.3,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+303,Robotics,High,8,Cell Assembly,Evening,4.4,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+304,Soldering,High,4,Pack Assembly,Flexible,4.0,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+305,Automation,High,5,Module Assembly,Night,3.1,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+306,Robotics,Medium,3,Pack Assembly,Evening,3.6,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+307,Welding,Low,5,Final Testing,Evening,4.4,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+308,Welding,Medium,1,Final Testing,Morning,4.9,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+309,Automation,High,4,Module Assembly,Flexible,4.6,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+310,Quality Inspection,Medium,2,Module Assembly,Evening,4.0,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+311,Robotics,Medium,8,Final Testing,Morning,4.1,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+312,BMS Integration,High,4,Cell Assembly,Evening,4.6,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+313,Packaging,High,7,Cell Assembly,Morning,3.6,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+314,Mechanical Assembly,High,6,Pack Assembly,Night,3.6,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+315,Welding,Low,8,Module Assembly,Night,3.9,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+316,Automation,Low,4,Cell Assembly,Flexible,3.6,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+317,BMS Integration,High,3,Module Assembly,Evening,4.7,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+318,Soldering,High,5,Final Testing,Morning,5.0,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+319,Soldering,Medium,4,Final Testing,Evening,4.1,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+320,Automation,High,6,Final Testing,Flexible,4.5,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+321,BMS Integration,Medium,8,Pack Assembly,Evening,4.1,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+322,Packaging,High,7,Pack Assembly,Evening,3.7,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+323,Welding,Low,5,Pack Assembly,Morning,3.9,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+324,Welding,High,8,Final Testing,Morning,3.4,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+325,Mechanical Assembly,Low,8,Module Assembly,Flexible,4.9,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+326,Quality Inspection,Medium,3,Pack Assembly,Morning,3.2,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+327,BMS Integration,Medium,8,Module Assembly,Morning,4.6,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+328,Robotics,Low,2,Module Assembly,Evening,3.5,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+329,Soldering,High,1,Module Assembly,Flexible,3.7,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+330,Welding,Medium,6,Module Assembly,Morning,3.0,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+331,Quality Inspection,Low,1,Pack Assembly,Morning,4.9,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+332,Soldering,Medium,5,Final Testing,Evening,3.4,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+333,Welding,Medium,2,Final Testing,Morning,4.2,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+334,Mechanical Assembly,Low,5,Cell Assembly,Night,4.2,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+335,Packaging,High,8,Pack Assembly,Night,3.0,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+336,Electrical Wiring,High,8,Module Assembly,Morning,4.9,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+337,Soldering,High,5,Cell Assembly,Evening,4.9,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+338,Electrical Wiring,High,2,Module Assembly,Evening,3.9,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+339,Electrical Wiring,High,2,Final Testing,Morning,4.6,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+340,Electrical Wiring,Low,6,Cell Assembly,Night,3.9,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+341,Robotics,Low,4,Final Testing,Night,4.5,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+342,Mechanical Assembly,Medium,2,Module Assembly,Flexible,3.6,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+343,Quality Inspection,Low,8,Cell Assembly,Night,4.8,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+344,BMS Integration,Low,7,Pack Assembly,Morning,3.2,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+345,Welding,Medium,6,Module Assembly,Evening,4.9,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+346,Mechanical Assembly,High,7,Module Assembly,Night,4.6,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+347,Packaging,Medium,5,Final Testing,Morning,3.4,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+348,Welding,Low,6,Final Testing,Night,3.6,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+349,Mechanical Assembly,Low,6,Final Testing,Evening,3.2,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+350,Soldering,High,6,Cell Assembly,Morning,4.5,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+351,Welding,Low,1,Pack Assembly,Evening,4.2,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+352,Mechanical Assembly,High,4,Module Assembly,Night,4.0,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+353,Welding,High,4,Final Testing,Morning,3.0,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+354,Electrical Wiring,High,7,Cell Assembly,Morning,3.9,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+355,Soldering,Low,7,Pack Assembly,Evening,3.4,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+356,Robotics,Medium,3,Pack Assembly,Night,3.2,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+357,BMS Integration,Medium,2,Module Assembly,Morning,4.9,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+358,Mechanical Assembly,Low,7,Module Assembly,Morning,4.7,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+359,Mechanical Assembly,High,8,Cell Assembly,Morning,3.8,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+360,Packaging,Medium,2,Module Assembly,Night,3.1,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+361,Soldering,Low,5,Pack Assembly,Night,3.4,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+362,Electrical Wiring,High,5,Cell Assembly,Night,4.0,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+363,Packaging,Medium,1,Module Assembly,Morning,3.8,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+364,Automation,High,8,Pack Assembly,Morning,3.5,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+365,Robotics,Low,7,Module Assembly,Morning,3.1,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+366,Automation,Medium,3,Pack Assembly,Flexible,4.6,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+367,Automation,Medium,5,Final Testing,Night,4.7,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+368,Electrical Wiring,Low,4,Final Testing,Flexible,4.8,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+369,Packaging,Low,6,Final Testing,Night,4.6,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+370,Mechanical Assembly,Medium,6,Final Testing,Evening,3.5,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+371,Quality Inspection,Low,4,Final Testing,Flexible,3.8,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+372,Electrical Wiring,Low,5,Pack Assembly,Evening,4.2,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+373,Robotics,Low,3,Pack Assembly,Flexible,3.2,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+374,Welding,High,5,Cell Assembly,Night,4.2,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+375,Soldering,Low,8,Final Testing,Evening,3.1,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+376,Electrical Wiring,Low,2,Final Testing,Flexible,4.4,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+377,Packaging,Low,7,Module Assembly,Flexible,4.6,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+378,Quality Inspection,High,5,Cell Assembly,Night,3.8,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+379,Robotics,Low,8,Module Assembly,Night,4.3,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+380,Welding,Low,4,Module Assembly,Flexible,4.5,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+381,Mechanical Assembly,Medium,1,Final Testing,Flexible,4.2,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+382,Mechanical Assembly,High,4,Cell Assembly,Evening,4.1,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+383,Electrical Wiring,Medium,3,Cell Assembly,Night,4.6,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+384,Robotics,Low,2,Module Assembly,Morning,4.9,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+385,Welding,Low,5,Final Testing,Morning,4.0,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+386,Welding,High,1,Cell Assembly,Morning,4.6,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+387,Quality Inspection,High,6,Pack Assembly,Flexible,4.7,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+388,Packaging,High,4,Pack Assembly,Flexible,3.3,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+389,Robotics,Medium,4,Cell Assembly,Morning,3.4,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+390,Mechanical Assembly,High,3,Module Assembly,Morning,4.7,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+391,Automation,Medium,5,Module Assembly,Flexible,3.1,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+392,Mechanical Assembly,Low,1,Pack Assembly,Night,3.3,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+393,BMS Integration,High,8,Module Assembly,Evening,3.8,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+394,Electrical Wiring,Medium,3,Final Testing,Morning,3.8,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+395,Automation,Low,7,Module Assembly,Flexible,4.2,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+396,Packaging,High,5,Module Assembly,Evening,4.7,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+397,BMS Integration,Medium,1,Pack Assembly,Flexible,4.7,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+398,Robotics,High,5,Cell Assembly,Evening,3.7,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+399,Mechanical Assembly,High,2,Cell Assembly,Morning,3.6,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+400,Packaging,Medium,6,Final Testing,Night,3.4,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+401,Mechanical Assembly,High,5,Final Testing,Flexible,3.9,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+402,Quality Inspection,High,2,Cell Assembly,Flexible,4.6,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+403,Electrical Wiring,Medium,7,Module Assembly,Night,4.0,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+404,Welding,Medium,2,Module Assembly,Night,3.0,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+405,Electrical Wiring,Low,1,Pack Assembly,Flexible,4.5,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+406,Soldering,Low,8,Cell Assembly,Flexible,4.3,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+407,Welding,Medium,7,Module Assembly,Night,4.3,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+408,Welding,Medium,6,Module Assembly,Night,3.5,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+409,Soldering,Low,1,Cell Assembly,Evening,3.7,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+410,Mechanical Assembly,High,4,Pack Assembly,Flexible,3.2,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+411,Packaging,Low,1,Module Assembly,Night,3.0,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+412,BMS Integration,Medium,8,Final Testing,Night,4.4,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+413,Packaging,Medium,1,Pack Assembly,Evening,3.8,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+414,BMS Integration,Medium,3,Module Assembly,Flexible,3.9,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+415,Quality Inspection,Medium,5,Pack Assembly,Flexible,3.4,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+416,Electrical Wiring,High,6,Cell Assembly,Evening,4.2,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+417,Quality Inspection,Low,2,Module Assembly,Flexible,4.0,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+418,Packaging,High,5,Module Assembly,Night,3.8,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+419,Quality Inspection,Low,7,Pack Assembly,Flexible,4.9,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+420,Quality Inspection,High,8,Final Testing,Flexible,3.5,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+421,Electrical Wiring,Medium,1,Final Testing,Night,4.3,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+422,BMS Integration,High,4,Pack Assembly,Morning,4.9,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+423,BMS Integration,Low,2,Module Assembly,Night,4.0,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+424,Welding,Medium,8,Cell Assembly,Night,4.3,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+425,Electrical Wiring,Low,2,Cell Assembly,Morning,4.5,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+426,Mechanical Assembly,High,7,Final Testing,Morning,3.6,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+427,Automation,Low,4,Module Assembly,Flexible,4.4,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+428,Quality Inspection,High,4,Final Testing,Flexible,3.2,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+429,Soldering,Medium,2,Cell Assembly,Evening,4.9,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+430,BMS Integration,Medium,8,Cell Assembly,Flexible,3.1,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+431,Robotics,High,8,Cell Assembly,Night,4.9,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+432,Quality Inspection,Low,3,Pack Assembly,Evening,3.2,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+433,Welding,High,4,Cell Assembly,Flexible,5.0,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+434,Automation,High,6,Final Testing,Morning,3.5,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+435,Packaging,Low,2,Module Assembly,Flexible,4.3,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+436,BMS Integration,High,8,Final Testing,Night,3.9,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+437,Robotics,Medium,2,Final Testing,Flexible,3.3,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+438,Robotics,High,7,Module Assembly,Night,4.9,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+439,Packaging,High,6,Pack Assembly,Flexible,3.4,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+440,Electrical Wiring,High,1,Module Assembly,Flexible,3.3,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+441,Welding,High,8,Module Assembly,Flexible,4.0,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+442,BMS Integration,Medium,6,Module Assembly,Night,4.7,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+443,Mechanical Assembly,Low,1,Module Assembly,Morning,3.7,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+444,Quality Inspection,Medium,2,Module Assembly,Evening,3.4,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+445,Welding,High,2,Cell Assembly,Night,4.7,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+446,Automation,Low,8,Pack Assembly,Evening,4.4,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+447,Robotics,Medium,5,Cell Assembly,Night,3.7,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+448,Quality Inspection,Medium,2,Cell Assembly,Night,4.1,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+449,Robotics,High,2,Final Testing,Flexible,4.2,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+450,Mechanical Assembly,High,1,Pack Assembly,Evening,3.9,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+451,Soldering,High,4,Module Assembly,Flexible,3.7,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+452,Quality Inspection,High,1,Module Assembly,Evening,4.0,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+453,Automation,Low,2,Final Testing,Night,4.7,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+454,Welding,Low,7,Pack Assembly,Evening,4.4,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+455,Robotics,Medium,1,Module Assembly,Flexible,4.9,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+456,Mechanical Assembly,Medium,3,Cell Assembly,Night,4.5,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+457,Soldering,Medium,4,Final Testing,Morning,4.5,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+458,Packaging,Medium,5,Pack Assembly,Morning,5.0,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+459,Welding,High,8,Cell Assembly,Night,3.3,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+460,Robotics,Medium,7,Module Assembly,Morning,4.6,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+461,Robotics,Medium,4,Final Testing,Flexible,4.8,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+462,Soldering,Low,3,Module Assembly,Evening,4.8,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+463,Welding,Medium,5,Final Testing,Flexible,3.5,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+464,Automation,Low,1,Pack Assembly,Night,4.8,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+465,Robotics,Medium,8,Pack Assembly,Evening,3.5,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+466,BMS Integration,High,6,Final Testing,Evening,3.2,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+467,Quality Inspection,High,3,Pack Assembly,Flexible,4.6,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+468,Soldering,High,2,Final Testing,Night,4.3,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+469,Electrical Wiring,Low,8,Final Testing,Evening,3.1,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+470,Quality Inspection,Low,8,Pack Assembly,Night,3.0,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+471,Mechanical Assembly,Low,1,Cell Assembly,Morning,4.2,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+472,Mechanical Assembly,Medium,3,Pack Assembly,Evening,4.2,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+473,Soldering,Medium,4,Module Assembly,Night,4.7,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+474,Soldering,High,1,Module Assembly,Flexible,3.8,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+475,Robotics,Medium,1,Final Testing,Evening,3.2,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+476,Quality Inspection,Low,2,Final Testing,Morning,3.3,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+477,Soldering,High,7,Cell Assembly,Night,4.8,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+478,BMS Integration,Medium,3,Pack Assembly,Flexible,3.0,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+479,Automation,Medium,8,Pack Assembly,Evening,3.1,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+480,BMS Integration,Medium,5,Cell Assembly,Evening,3.8,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+481,Quality Inspection,Medium,7,Module Assembly,Flexible,3.9,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+482,Mechanical Assembly,Medium,8,Cell Assembly,Evening,3.1,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+483,Packaging,Medium,3,Module Assembly,Evening,3.6,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+484,Mechanical Assembly,Medium,3,Final Testing,Night,3.6,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+485,Automation,Low,2,Pack Assembly,Flexible,3.1,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+486,Quality Inspection,Medium,8,Module Assembly,Night,4.3,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+487,Mechanical Assembly,Medium,5,Module Assembly,Night,3.4,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+488,Mechanical Assembly,Medium,1,Pack Assembly,Evening,3.5,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+489,Electrical Wiring,Medium,2,Final Testing,Night,3.2,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+490,Packaging,High,2,Pack Assembly,Flexible,4.4,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+491,Automation,Medium,3,Cell Assembly,Flexible,4.4,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+492,Packaging,High,3,Cell Assembly,Morning,3.1,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+493,Automation,High,4,Cell Assembly,Evening,3.8,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+494,Soldering,High,3,Cell Assembly,Morning,4.4,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+495,Quality Inspection,Low,7,Final Testing,Night,4.9,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+496,Electrical Wiring,High,6,Final Testing,Flexible,3.0,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+497,Automation,High,4,Final Testing,Morning,4.8,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+498,Welding,High,2,Pack Assembly,Evening,4.6,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+499,Robotics,High,4,Cell Assembly,Night,3.6,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+500,Welding,High,2,Pack Assembly,Evening,4.7,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+501,Mechanical Assembly,High,4,Pack Assembly,Night,3.9,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+502,Mechanical Assembly,High,1,Final Testing,Night,3.6,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+503,Packaging,Medium,3,Module Assembly,Flexible,4.1,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+504,Soldering,High,8,Pack Assembly,Night,4.5,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+505,Electrical Wiring,High,6,Final Testing,Night,4.6,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+506,Mechanical Assembly,Low,6,Final Testing,Evening,5.0,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+507,Welding,High,4,Cell Assembly,Night,3.8,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+508,Robotics,Low,7,Pack Assembly,Night,3.5,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+509,Quality Inspection,Low,8,Module Assembly,Evening,4.2,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+510,Quality Inspection,High,5,Pack Assembly,Night,3.8,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+511,BMS Integration,Medium,1,Pack Assembly,Flexible,3.4,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+512,Quality Inspection,Low,1,Pack Assembly,Flexible,4.3,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+513,Robotics,High,5,Module Assembly,Night,4.1,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+514,BMS Integration,High,7,Cell Assembly,Evening,4.3,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+515,Welding,Medium,1,Final Testing,Evening,4.9,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+516,Packaging,Medium,8,Module Assembly,Morning,4.0,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+517,BMS Integration,Low,8,Final Testing,Evening,4.6,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+518,Quality Inspection,High,3,Cell Assembly,Night,5.0,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+519,Quality Inspection,Medium,5,Module Assembly,Evening,4.9,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+520,Soldering,High,8,Pack Assembly,Flexible,4.6,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+521,Soldering,Low,1,Cell Assembly,Evening,3.1,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+522,BMS Integration,High,1,Cell Assembly,Evening,4.7,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+523,Soldering,Medium,4,Cell Assembly,Night,4.2,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+524,Automation,High,2,Final Testing,Morning,3.5,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+525,Soldering,High,1,Module Assembly,Flexible,3.2,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+526,Quality Inspection,Low,5,Module Assembly,Night,4.4,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+527,Robotics,High,5,Module Assembly,Night,4.9,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+528,Welding,High,7,Pack Assembly,Night,4.9,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+529,Robotics,High,6,Module Assembly,Night,3.0,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+530,Soldering,Low,8,Cell Assembly,Morning,4.2,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+531,Mechanical Assembly,High,6,Module Assembly,Flexible,4.9,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+532,Automation,Medium,2,Module Assembly,Morning,4.3,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+533,Packaging,Low,3,Final Testing,Night,4.5,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+534,Electrical Wiring,Low,5,Module Assembly,Flexible,3.5,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+535,Mechanical Assembly,High,8,Pack Assembly,Night,3.6,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+536,Automation,Medium,5,Final Testing,Morning,3.6,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+537,Automation,Low,1,Pack Assembly,Night,4.0,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+538,Mechanical Assembly,High,1,Final Testing,Flexible,4.5,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+539,Packaging,High,5,Final Testing,Morning,4.1,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+540,Welding,High,5,Module Assembly,Flexible,4.2,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+541,Packaging,High,2,Final Testing,Night,4.9,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+542,Mechanical Assembly,Medium,7,Final Testing,Evening,4.9,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+543,Electrical Wiring,High,2,Final Testing,Flexible,3.1,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+544,Electrical Wiring,Low,1,Cell Assembly,Night,4.9,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+545,Soldering,High,5,Pack Assembly,Night,4.1,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+546,Packaging,Low,2,Final Testing,Night,3.8,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+547,Electrical Wiring,Medium,4,Final Testing,Evening,3.0,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+548,Robotics,Low,6,Cell Assembly,Morning,4.0,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+549,Mechanical Assembly,Medium,6,Pack Assembly,Morning,4.2,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+550,Welding,High,8,Cell Assembly,Morning,4.3,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+551,Mechanical Assembly,High,3,Final Testing,Morning,3.9,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+552,Mechanical Assembly,Low,2,Module Assembly,Night,4.3,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+553,BMS Integration,High,4,Final Testing,Flexible,5.0,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+554,Electrical Wiring,High,6,Pack Assembly,Evening,4.0,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+555,Electrical Wiring,Medium,3,Pack Assembly,Flexible,4.2,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+556,Soldering,High,2,Module Assembly,Flexible,4.6,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+557,Welding,Medium,8,Module Assembly,Evening,4.4,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+558,Automation,Low,4,Pack Assembly,Night,3.3,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+559,Automation,High,4,Pack Assembly,Night,4.6,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+560,Packaging,High,6,Cell Assembly,Evening,4.9,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+561,Robotics,Medium,6,Module Assembly,Flexible,3.1,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+562,Robotics,Low,8,Pack Assembly,Night,3.7,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+563,BMS Integration,Medium,3,Cell Assembly,Morning,3.7,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+564,Electrical Wiring,Medium,2,Pack Assembly,Morning,3.5,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+565,Robotics,High,2,Final Testing,Morning,4.8,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+566,Welding,High,7,Module Assembly,Night,3.5,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+567,Robotics,High,2,Pack Assembly,Night,4.6,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+568,BMS Integration,Medium,2,Pack Assembly,Night,4.3,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+569,Mechanical Assembly,Low,8,Module Assembly,Night,3.4,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+570,Packaging,Medium,7,Pack Assembly,Evening,4.5,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+571,Packaging,High,1,Module Assembly,Morning,3.9,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+572,Soldering,Low,7,Pack Assembly,Night,4.9,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+573,Automation,Medium,3,Final Testing,Morning,4.9,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+574,Automation,Medium,3,Final Testing,Night,3.5,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+575,Mechanical Assembly,High,7,Pack Assembly,Evening,4.4,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+576,Packaging,High,1,Pack Assembly,Evening,3.5,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+577,Quality Inspection,Low,2,Module Assembly,Morning,4.5,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+578,Electrical Wiring,Low,2,Final Testing,Night,3.6,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+579,BMS Integration,High,6,Pack Assembly,Evening,3.5,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+580,Robotics,High,8,Final Testing,Evening,3.7,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+581,Electrical Wiring,Medium,4,Module Assembly,Flexible,4.8,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+582,Soldering,High,7,Module Assembly,Night,4.1,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+583,Robotics,Medium,1,Cell Assembly,Morning,4.2,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+584,Mechanical Assembly,High,1,Module Assembly,Flexible,4.8,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+585,Quality Inspection,High,5,Final Testing,Evening,3.2,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+586,BMS Integration,Low,4,Module Assembly,Morning,4.3,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+587,Quality Inspection,High,8,Pack Assembly,Flexible,3.5,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+588,Electrical Wiring,High,2,Final Testing,Morning,3.6,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+589,Packaging,High,7,Cell Assembly,Flexible,4.4,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+590,Soldering,Low,1,Final Testing,Flexible,4.2,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+591,Mechanical Assembly,Medium,2,Pack Assembly,Evening,4.6,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+592,Automation,Medium,2,Cell Assembly,Evening,4.7,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+593,BMS Integration,High,1,Pack Assembly,Flexible,3.3,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+594,Welding,Medium,8,Pack Assembly,Evening,4.0,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+595,Quality Inspection,Low,3,Final Testing,Flexible,4.1,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+596,Robotics,Low,3,Final Testing,Flexible,4.3,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+597,BMS Integration,High,5,Pack Assembly,Evening,4.8,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+598,BMS Integration,Low,8,Final Testing,Night,3.9,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+599,Quality Inspection,High,7,Final Testing,Evening,4.1,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+600,Welding,Medium,6,Cell Assembly,Flexible,4.7,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+601,Mechanical Assembly,Medium,1,Cell Assembly,Flexible,4.8,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+602,Mechanical Assembly,High,7,Final Testing,Morning,5.0,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+603,Electrical Wiring,Low,5,Module Assembly,Evening,4.8,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+604,Automation,High,1,Cell Assembly,Morning,3.2,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+605,Packaging,High,5,Final Testing,Flexible,3.7,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+606,Robotics,Low,5,Cell Assembly,Evening,3.5,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+607,Electrical Wiring,Low,7,Final Testing,Night,4.2,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+608,Electrical Wiring,High,5,Final Testing,Morning,4.3,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+609,Electrical Wiring,Low,4,Final Testing,Morning,3.7,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+610,Robotics,Medium,8,Pack Assembly,Evening,4.8,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+611,BMS Integration,Low,4,Module Assembly,Flexible,3.0,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+612,Packaging,High,1,Cell Assembly,Evening,3.4,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+613,Electrical Wiring,High,1,Pack Assembly,Evening,4.1,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+614,Quality Inspection,Low,7,Module Assembly,Morning,4.1,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+615,Welding,Medium,3,Pack Assembly,Flexible,3.7,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+616,Electrical Wiring,Low,6,Module Assembly,Morning,4.6,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+617,Electrical Wiring,High,1,Cell Assembly,Evening,5.0,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+618,Packaging,High,4,Module Assembly,Night,4.7,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+619,BMS Integration,Medium,1,Module Assembly,Night,3.9,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+620,BMS Integration,Medium,2,Module Assembly,Flexible,3.1,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+621,Quality Inspection,High,8,Final Testing,Night,4.4,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+622,Packaging,Low,3,Final Testing,Morning,3.7,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+623,BMS Integration,Medium,2,Cell Assembly,Evening,4.6,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+624,Electrical Wiring,Medium,3,Module Assembly,Night,4.6,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+625,Electrical Wiring,Medium,8,Pack Assembly,Flexible,3.1,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+626,Soldering,Low,4,Pack Assembly,Night,3.2,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+627,Mechanical Assembly,Low,1,Pack Assembly,Morning,3.9,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+628,Packaging,High,3,Module Assembly,Night,3.5,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+629,Electrical Wiring,Medium,1,Module Assembly,Evening,4.7,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+630,Welding,Low,3,Pack Assembly,Morning,4.0,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+631,Electrical Wiring,Low,4,Module Assembly,Flexible,4.3,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+632,BMS Integration,Medium,2,Module Assembly,Night,3.2,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+633,Quality Inspection,High,8,Module Assembly,Evening,4.2,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+634,Robotics,Medium,7,Final Testing,Evening,4.5,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+635,Packaging,Low,6,Module Assembly,Night,4.4,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+636,Electrical Wiring,High,1,Module Assembly,Night,4.8,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+637,Packaging,High,1,Final Testing,Evening,3.8,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+638,Soldering,Medium,6,Final Testing,Evening,3.1,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+639,Robotics,Low,5,Pack Assembly,Flexible,3.7,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+640,BMS Integration,Low,8,Final Testing,Morning,4.4,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+641,Robotics,Medium,8,Module Assembly,Evening,4.1,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+642,BMS Integration,High,7,Cell Assembly,Evening,3.4,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+643,Packaging,Medium,7,Final Testing,Flexible,4.4,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+644,Packaging,Low,1,Pack Assembly,Evening,3.6,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+645,Automation,Low,6,Final Testing,Morning,5.0,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+646,Robotics,Medium,5,Pack Assembly,Night,3.8,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+647,Robotics,Low,1,Pack Assembly,Flexible,4.4,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+648,BMS Integration,Low,8,Final Testing,Flexible,3.8,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+649,BMS Integration,Medium,8,Pack Assembly,Flexible,3.0,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+650,BMS Integration,High,6,Final Testing,Night,3.4,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+651,Packaging,High,7,Pack Assembly,Night,3.9,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+652,Quality Inspection,Low,3,Pack Assembly,Morning,4.5,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+653,Mechanical Assembly,Medium,6,Module Assembly,Morning,3.2,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+654,Robotics,Low,6,Pack Assembly,Morning,4.6,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+655,Electrical Wiring,High,2,Module Assembly,Flexible,3.9,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+656,Robotics,High,1,Cell Assembly,Evening,4.6,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+657,Robotics,Medium,8,Final Testing,Night,4.8,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+658,Robotics,Medium,2,Cell Assembly,Morning,4.6,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+659,Soldering,Low,6,Module Assembly,Night,5.0,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+660,Quality Inspection,Medium,1,Final Testing,Night,4.4,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+661,Packaging,Low,7,Cell Assembly,Night,4.3,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+662,BMS Integration,Medium,8,Final Testing,Night,3.7,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+663,Automation,Medium,8,Pack Assembly,Morning,3.9,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+664,Automation,High,5,Final Testing,Evening,3.8,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+665,Quality Inspection,High,2,Module Assembly,Night,3.9,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+666,Welding,High,7,Cell Assembly,Morning,3.6,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+667,BMS Integration,High,3,Final Testing,Flexible,3.4,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+668,BMS Integration,Low,6,Final Testing,Morning,3.3,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+669,BMS Integration,Low,4,Cell Assembly,Evening,4.2,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+670,Welding,Medium,1,Pack Assembly,Evening,4.7,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+671,Automation,High,2,Module Assembly,Night,3.7,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+672,Mechanical Assembly,High,1,Final Testing,Flexible,4.4,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+673,Soldering,Low,1,Module Assembly,Evening,4.3,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+674,Packaging,Medium,5,Final Testing,Night,4.8,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+675,BMS Integration,High,4,Cell Assembly,Evening,4.5,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+676,Mechanical Assembly,Low,1,Cell Assembly,Evening,4.9,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+677,Packaging,High,2,Pack Assembly,Night,3.1,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+678,Electrical Wiring,Medium,3,Cell Assembly,Morning,3.5,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+679,Electrical Wiring,Low,5,Module Assembly,Evening,4.6,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+680,Soldering,Medium,1,Pack Assembly,Evening,3.7,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+681,Electrical Wiring,Low,3,Pack Assembly,Night,4.1,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+682,Packaging,High,5,Final Testing,Morning,3.1,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+683,Automation,Low,2,Cell Assembly,Evening,3.0,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+684,BMS Integration,High,6,Pack Assembly,Flexible,4.7,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+685,BMS Integration,High,4,Cell Assembly,Flexible,3.7,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+686,Soldering,Low,7,Pack Assembly,Night,3.5,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+687,Soldering,Low,6,Cell Assembly,Morning,4.2,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+688,Mechanical Assembly,Low,1,Final Testing,Morning,3.8,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+689,Packaging,Low,3,Final Testing,Morning,4.2,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+690,Mechanical Assembly,High,7,Final Testing,Evening,3.8,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+691,Mechanical Assembly,Medium,5,Cell Assembly,Night,4.5,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+692,Electrical Wiring,Low,3,Module Assembly,Flexible,4.8,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+693,Packaging,High,6,Module Assembly,Evening,4.3,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+694,Quality Inspection,High,7,Final Testing,Flexible,4.8,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+695,Soldering,Low,1,Final Testing,Morning,4.8,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+696,BMS Integration,Low,1,Module Assembly,Morning,4.3,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+697,Electrical Wiring,Low,5,Module Assembly,Flexible,4.1,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+698,Mechanical Assembly,Low,6,Cell Assembly,Flexible,3.2,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+699,Automation,Medium,2,Module Assembly,Night,4.1,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+700,Electrical Wiring,High,7,Pack Assembly,Flexible,4.5,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+701,Welding,Medium,6,Cell Assembly,Morning,4.7,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+702,Automation,High,8,Module Assembly,Flexible,4.2,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+703,Welding,High,6,Cell Assembly,Night,3.0,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+704,Robotics,High,3,Pack Assembly,Flexible,3.1,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+705,Welding,Low,8,Pack Assembly,Morning,3.3,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+706,Mechanical Assembly,Medium,7,Final Testing,Night,4.7,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+707,Welding,High,4,Final Testing,Flexible,4.6,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+708,BMS Integration,High,1,Pack Assembly,Night,3.8,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+709,BMS Integration,Medium,6,Cell Assembly,Morning,3.9,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+710,Mechanical Assembly,Medium,1,Pack Assembly,Night,4.3,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+711,Welding,Low,3,Final Testing,Morning,3.3,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+712,Robotics,Medium,4,Pack Assembly,Flexible,4.9,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+713,Electrical Wiring,Medium,8,Pack Assembly,Night,3.8,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+714,Robotics,Low,1,Cell Assembly,Evening,4.6,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+715,Robotics,High,2,Module Assembly,Flexible,4.1,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+716,Electrical Wiring,Medium,6,Module Assembly,Flexible,3.3,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+717,Robotics,Medium,8,Final Testing,Night,3.9,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+718,Soldering,Medium,3,Module Assembly,Evening,3.3,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+719,Packaging,Low,8,Final Testing,Night,3.1,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+720,Electrical Wiring,High,2,Final Testing,Evening,5.0,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+721,Welding,High,1,Cell Assembly,Flexible,4.9,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+722,Mechanical Assembly,High,2,Module Assembly,Evening,5.0,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+723,Electrical Wiring,Medium,1,Module Assembly,Morning,3.4,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+724,Quality Inspection,High,8,Cell Assembly,Morning,3.1,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+725,Electrical Wiring,Low,3,Module Assembly,Evening,4.1,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+726,Mechanical Assembly,Low,6,Final Testing,Evening,3.2,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+727,Electrical Wiring,Medium,3,Pack Assembly,Night,4.1,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+728,Quality Inspection,Low,8,Pack Assembly,Flexible,3.4,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+729,Automation,High,3,Module Assembly,Night,4.5,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+730,Welding,Medium,7,Cell Assembly,Evening,4.6,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+731,Soldering,High,3,Cell Assembly,Flexible,4.1,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+732,Quality Inspection,High,5,Final Testing,Morning,4.0,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+733,Welding,Medium,6,Final Testing,Morning,3.1,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+734,Robotics,Low,3,Cell Assembly,Morning,4.1,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+735,Mechanical Assembly,Medium,2,Final Testing,Night,3.2,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+736,Quality Inspection,High,2,Final Testing,Evening,3.4,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+737,Robotics,Medium,8,Pack Assembly,Evening,3.7,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+738,Welding,High,2,Pack Assembly,Night,3.6,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+739,Mechanical Assembly,Low,7,Pack Assembly,Evening,3.3,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+740,Mechanical Assembly,Low,1,Cell Assembly,Evening,4.5,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+741,BMS Integration,High,4,Final Testing,Flexible,3.1,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+742,Electrical Wiring,High,3,Cell Assembly,Night,3.8,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+743,Quality Inspection,Medium,7,Pack Assembly,Morning,4.8,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+744,Automation,High,1,Module Assembly,Night,3.2,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+745,BMS Integration,Medium,6,Module Assembly,Evening,4.7,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+746,Mechanical Assembly,Medium,5,Final Testing,Morning,4.9,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+747,Electrical Wiring,Medium,3,Final Testing,Flexible,4.9,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+748,Robotics,Medium,7,Pack Assembly,Evening,3.5,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+749,Packaging,High,6,Module Assembly,Flexible,3.0,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+750,Automation,Low,1,Cell Assembly,Night,3.9,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+751,Packaging,High,1,Module Assembly,Evening,4.9,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+752,Packaging,High,7,Module Assembly,Morning,3.5,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+753,Soldering,High,6,Module Assembly,Evening,3.4,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+754,Soldering,High,7,Cell Assembly,Morning,4.2,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+755,Packaging,Low,7,Final Testing,Night,3.0,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+756,Quality Inspection,High,8,Module Assembly,Evening,3.3,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+757,BMS Integration,High,5,Final Testing,Morning,3.5,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+758,Automation,Medium,3,Module Assembly,Night,4.7,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+759,BMS Integration,Medium,7,Final Testing,Morning,3.8,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+760,Automation,Medium,6,Final Testing,Evening,3.3,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+761,Quality Inspection,Medium,1,Pack Assembly,Night,3.9,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+762,Soldering,Low,5,Cell Assembly,Flexible,3.8,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+763,Welding,Low,2,Module Assembly,Night,4.2,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+764,BMS Integration,Low,1,Cell Assembly,Evening,3.9,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+765,Packaging,High,4,Cell Assembly,Morning,4.6,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+766,Mechanical Assembly,Low,6,Final Testing,Flexible,4.1,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+767,BMS Integration,Medium,8,Pack Assembly,Evening,4.7,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+768,Automation,Low,4,Module Assembly,Flexible,4.0,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+769,Quality Inspection,Medium,1,Module Assembly,Morning,3.6,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+770,Automation,Medium,1,Pack Assembly,Morning,4.8,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+771,Welding,High,5,Pack Assembly,Flexible,4.9,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+772,Welding,Medium,3,Final Testing,Morning,5.0,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+773,Mechanical Assembly,High,2,Cell Assembly,Evening,3.6,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+774,BMS Integration,Medium,7,Final Testing,Evening,3.7,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+775,Quality Inspection,High,7,Pack Assembly,Flexible,4.0,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+776,Welding,Medium,1,Final Testing,Morning,3.8,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+777,Electrical Wiring,Medium,4,Module Assembly,Morning,3.4,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+778,Packaging,High,6,Pack Assembly,Flexible,4.0,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+779,Packaging,Low,2,Final Testing,Flexible,3.5,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+780,Packaging,Medium,1,Module Assembly,Evening,4.3,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+781,Robotics,Low,3,Pack Assembly,Night,4.5,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+782,Robotics,Medium,4,Module Assembly,Flexible,4.1,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+783,Quality Inspection,Medium,8,Module Assembly,Evening,3.8,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+784,Mechanical Assembly,Low,3,Final Testing,Morning,4.7,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+785,Mechanical Assembly,High,6,Module Assembly,Evening,3.2,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+786,Packaging,Low,5,Module Assembly,Morning,3.1,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+787,Soldering,High,1,Cell Assembly,Flexible,4.5,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+788,Mechanical Assembly,Medium,4,Pack Assembly,Morning,3.8,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+789,Soldering,High,8,Module Assembly,Evening,4.0,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+790,Quality Inspection,Low,2,Module Assembly,Morning,4.9,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+791,Quality Inspection,Medium,1,Cell Assembly,Night,4.3,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+792,BMS Integration,High,8,Module Assembly,Night,4.2,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+793,Packaging,Low,2,Module Assembly,Night,3.7,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+794,Soldering,Low,1,Cell Assembly,Night,3.4,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+795,Welding,High,4,Pack Assembly,Flexible,4.8,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+796,Mechanical Assembly,Medium,1,Cell Assembly,Night,3.7,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+797,Soldering,Medium,1,Cell Assembly,Morning,4.2,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+798,Robotics,Low,1,Module Assembly,Morning,4.6,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+799,Welding,Medium,3,Pack Assembly,Flexible,3.5,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+800,Robotics,Medium,4,Module Assembly,Flexible,4.5,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+801,Welding,Medium,8,Pack Assembly,Morning,3.9,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+802,Robotics,Low,1,Pack Assembly,Evening,4.3,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+803,Soldering,Low,5,Cell Assembly,Evening,4.6,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+804,Welding,Low,7,Final Testing,Evening,4.2,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+805,Packaging,High,4,Cell Assembly,Flexible,3.0,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+806,BMS Integration,High,8,Final Testing,Night,3.0,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+807,Robotics,Medium,4,Cell Assembly,Night,3.7,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+808,Electrical Wiring,Medium,6,Module Assembly,Flexible,4.4,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+809,Electrical Wiring,Medium,7,Pack Assembly,Night,3.9,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+810,Robotics,Medium,5,Cell Assembly,Flexible,4.5,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+811,Welding,Low,7,Pack Assembly,Morning,4.4,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+812,Quality Inspection,Low,7,Pack Assembly,Morning,3.5,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+813,Packaging,Low,2,Module Assembly,Flexible,3.2,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+814,Robotics,High,3,Pack Assembly,Flexible,4.5,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+815,Quality Inspection,High,8,Module Assembly,Flexible,4.7,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+816,Mechanical Assembly,High,8,Final Testing,Flexible,3.6,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+817,Welding,Medium,8,Pack Assembly,Morning,4.9,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+818,Soldering,Medium,8,Final Testing,Evening,4.1,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+819,BMS Integration,Medium,7,Module Assembly,Evening,3.4,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+820,Welding,Low,7,Pack Assembly,Evening,3.4,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+821,BMS Integration,Medium,7,Final Testing,Evening,4.1,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+822,Soldering,Medium,6,Module Assembly,Flexible,4.5,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+823,Robotics,Medium,3,Final Testing,Flexible,3.6,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+824,Packaging,Low,8,Cell Assembly,Night,4.1,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+825,Soldering,Medium,3,Pack Assembly,Evening,3.9,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+826,BMS Integration,Low,8,Final Testing,Morning,3.4,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+827,Electrical Wiring,High,4,Pack Assembly,Evening,4.8,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+828,Welding,Low,6,Pack Assembly,Morning,4.8,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+829,Electrical Wiring,High,6,Pack Assembly,Flexible,3.6,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+830,Welding,Low,5,Cell Assembly,Morning,4.6,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+831,Robotics,Medium,5,Pack Assembly,Evening,4.0,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+832,Packaging,Medium,5,Pack Assembly,Morning,4.0,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+833,Packaging,High,5,Final Testing,Morning,3.1,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+834,Quality Inspection,Medium,5,Module Assembly,Night,4.3,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+835,BMS Integration,Low,6,Pack Assembly,Flexible,4.4,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+836,Quality Inspection,High,4,Pack Assembly,Morning,3.5,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+837,Mechanical Assembly,Medium,2,Cell Assembly,Flexible,4.2,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+838,Robotics,High,5,Cell Assembly,Evening,4.5,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+839,Mechanical Assembly,Low,6,Final Testing,Flexible,4.9,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+840,Soldering,High,7,Module Assembly,Night,4.5,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+841,Packaging,High,2,Final Testing,Morning,4.9,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+842,Automation,Low,3,Final Testing,Night,3.6,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+843,Robotics,Low,2,Pack Assembly,Morning,3.7,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+844,Mechanical Assembly,Low,2,Cell Assembly,Evening,4.1,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+845,Welding,Low,1,Cell Assembly,Morning,3.3,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+846,Automation,Low,7,Module Assembly,Evening,3.0,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+847,BMS Integration,Low,3,Pack Assembly,Evening,4.6,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+848,Quality Inspection,Medium,2,Cell Assembly,Evening,3.6,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+849,Electrical Wiring,Medium,5,Pack Assembly,Evening,3.7,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+850,Welding,High,4,Pack Assembly,Flexible,4.5,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+851,Mechanical Assembly,High,8,Pack Assembly,Night,3.9,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+852,Soldering,Medium,6,Final Testing,Morning,3.6,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+853,Mechanical Assembly,Low,7,Module Assembly,Night,3.8,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+854,Robotics,Medium,3,Module Assembly,Night,3.5,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+855,Welding,Medium,7,Pack Assembly,Morning,3.8,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+856,Packaging,High,1,Module Assembly,Night,3.5,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+857,Automation,High,5,Cell Assembly,Morning,4.2,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+858,Welding,High,4,Final Testing,Night,3.9,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+859,Welding,High,1,Cell Assembly,Evening,3.2,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+860,Mechanical Assembly,High,5,Cell Assembly,Evening,3.1,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+861,Packaging,High,2,Final Testing,Morning,4.4,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+862,Electrical Wiring,Low,5,Pack Assembly,Flexible,4.0,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+863,Soldering,Low,5,Pack Assembly,Morning,3.2,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+864,BMS Integration,Low,7,Cell Assembly,Evening,3.7,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+865,Electrical Wiring,Medium,6,Cell Assembly,Flexible,3.7,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+866,BMS Integration,Low,5,Final Testing,Night,3.8,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+867,Quality Inspection,High,3,Module Assembly,Night,4.6,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+868,Welding,Low,8,Pack Assembly,Morning,4.1,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+869,Electrical Wiring,Medium,2,Final Testing,Evening,3.7,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+870,Automation,Low,6,Pack Assembly,Morning,4.7,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+871,Quality Inspection,Low,2,Module Assembly,Evening,4.0,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+872,Automation,Medium,8,Final Testing,Evening,3.7,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+873,Electrical Wiring,Low,7,Module Assembly,Morning,4.0,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+874,Soldering,High,8,Module Assembly,Evening,3.6,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+875,Mechanical Assembly,High,1,Pack Assembly,Morning,4.4,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+876,Soldering,High,4,Module Assembly,Morning,4.5,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+877,BMS Integration,High,3,Cell Assembly,Flexible,4.8,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+878,BMS Integration,High,7,Final Testing,Evening,4.2,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+879,Welding,Medium,5,Final Testing,Evening,3.3,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+880,Quality Inspection,High,6,Cell Assembly,Night,4.8,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+881,BMS Integration,Medium,3,Final Testing,Evening,4.3,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+882,Welding,Low,4,Cell Assembly,Night,4.1,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+883,Mechanical Assembly,High,3,Module Assembly,Night,4.4,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+884,Quality Inspection,High,6,Final Testing,Morning,4.6,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+885,Automation,Low,2,Cell Assembly,Flexible,4.4,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+886,Robotics,Medium,2,Cell Assembly,Morning,3.8,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+887,Robotics,Low,2,Pack Assembly,Night,4.3,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+888,BMS Integration,Low,1,Pack Assembly,Morning,3.1,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+889,Packaging,High,2,Pack Assembly,Flexible,3.3,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+890,Quality Inspection,Low,8,Final Testing,Morning,3.2,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+891,Mechanical Assembly,Medium,4,Pack Assembly,Evening,4.1,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+892,Automation,Medium,2,Module Assembly,Flexible,3.6,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+893,Electrical Wiring,Low,2,Module Assembly,Evening,4.8,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+894,Electrical Wiring,Low,2,Cell Assembly,Flexible,3.5,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+895,Soldering,Medium,7,Pack Assembly,Flexible,3.2,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+896,Soldering,Low,3,Cell Assembly,Morning,4.2,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+897,Mechanical Assembly,Medium,7,Final Testing,Evening,3.3,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+898,Electrical Wiring,High,8,Final Testing,Night,4.3,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+899,Welding,High,5,Cell Assembly,Morning,4.7,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+900,Packaging,Low,1,Module Assembly,Morning,4.4,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+901,Welding,Medium,1,Module Assembly,Night,3.0,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+902,Electrical Wiring,Medium,7,Final Testing,Evening,3.1,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+903,Electrical Wiring,Low,7,Pack Assembly,Morning,4.8,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+904,Packaging,High,5,Pack Assembly,Morning,3.5,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+905,Soldering,Medium,3,Final Testing,Evening,4.6,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+906,Soldering,Low,6,Pack Assembly,Flexible,3.4,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+907,Quality Inspection,Medium,1,Module Assembly,Evening,3.6,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+908,Automation,Low,4,Pack Assembly,Night,3.3,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+909,Robotics,Low,3,Module Assembly,Night,4.1,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+910,Welding,Low,8,Pack Assembly,Evening,4.9,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+911,BMS Integration,Medium,6,Cell Assembly,Night,4.6,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+912,Automation,High,8,Module Assembly,Night,3.0,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+913,Automation,High,7,Final Testing,Night,4.8,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+914,BMS Integration,High,2,Cell Assembly,Evening,3.9,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+915,Automation,Medium,7,Pack Assembly,Evening,4.6,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+916,Quality Inspection,Medium,5,Final Testing,Flexible,3.5,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+917,Welding,Medium,4,Pack Assembly,Morning,3.3,None,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+918,Robotics,High,7,Pack Assembly,Evening,3.2,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+919,BMS Integration,Low,2,Cell Assembly,Night,4.1,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+920,Packaging,Medium,5,Cell Assembly,Morning,3.3,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+921,Welding,Low,6,Cell Assembly,Evening,3.8,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+922,Packaging,Medium,3,Final Testing,Evening,4.8,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+923,Electrical Wiring,Medium,2,Module Assembly,Morning,3.0,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+924,Electrical Wiring,Medium,3,Final Testing,Morning,4.1,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+925,Mechanical Assembly,High,3,Final Testing,Night,4.8,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+926,BMS Integration,Low,3,Module Assembly,Morning,3.8,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+927,Automation,Low,6,Final Testing,Evening,3.5,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+928,Electrical Wiring,High,5,Final Testing,Night,3.6,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+929,Quality Inspection,High,3,Cell Assembly,Morning,4.2,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+930,Welding,High,5,Cell Assembly,Evening,4.0,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+931,BMS Integration,Medium,2,Cell Assembly,Morning,3.0,Certified Welder,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+932,Robotics,Medium,6,Module Assembly,Night,4.1,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+933,Quality Inspection,High,1,Final Testing,Morning,3.1,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+934,Quality Inspection,Low,4,Cell Assembly,Evening,5.0,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+935,Automation,Medium,6,Final Testing,Flexible,3.5,Mechanical Technician,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+936,Electrical Wiring,Low,6,Cell Assembly,Night,3.7,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+937,Mechanical Assembly,Low,2,Final Testing,Night,3.4,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,10
+938,Soldering,Low,5,Module Assembly,Evening,3.9,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+939,Automation,Low,5,Module Assembly,Night,3.0,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+940,Mechanical Assembly,High,5,Pack Assembly,Flexible,4.7,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+941,Quality Inspection,Low,2,Module Assembly,Evening,4.6,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+942,Electrical Wiring,Low,4,Final Testing,Evening,3.5,Electrical Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+943,Automation,Medium,4,Final Testing,Evening,4.6,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+944,Automation,Medium,8,Cell Assembly,Night,3.9,Quality Control Certified,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+945,Electrical Wiring,Medium,2,Pack Assembly,Evening,4.9,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+946,Robotics,Medium,5,Pack Assembly,Morning,3.7,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+947,Robotics,High,6,Module Assembly,Morning,4.6,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+948,Robotics,High,7,Cell Assembly,Night,4.2,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+949,Packaging,Medium,7,Module Assembly,Night,3.6,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+950,Welding,Medium,3,Final Testing,Evening,3.9,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+951,Quality Inspection,Low,1,Final Testing,Flexible,3.3,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+952,Electrical Wiring,Low,7,Module Assembly,Morning,3.4,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+953,Automation,High,6,Module Assembly,Flexible,3.6,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+954,Welding,Low,8,Module Assembly,Flexible,3.6,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+955,Soldering,Low,3,Final Testing,Morning,3.8,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+956,Electrical Wiring,High,8,Cell Assembly,Flexible,4.7,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+957,Automation,Medium,7,Module Assembly,Morning,4.2,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+958,Mechanical Assembly,Low,2,Final Testing,Morning,3.2,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+959,Welding,Medium,3,Module Assembly,Evening,3.4,Electrical Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+960,Automation,Medium,5,Final Testing,Evening,4.1,Certified Welder,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+961,Robotics,Medium,1,Cell Assembly,Flexible,4.1,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+962,Soldering,Medium,4,Module Assembly,Flexible,3.8,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+963,Quality Inspection,Medium,7,Final Testing,Morning,3.9,Certified BMS Engineer,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+964,Robotics,Low,8,Module Assembly,Flexible,4.0,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+965,Packaging,Low,5,Cell Assembly,Flexible,3.9,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+966,Quality Inspection,High,8,Module Assembly,Morning,3.6,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+967,Mechanical Assembly,Medium,1,Final Testing,Evening,3.2,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+968,Automation,Medium,6,Pack Assembly,Morning,4.2,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+969,Packaging,Medium,2,Cell Assembly,Flexible,3.5,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+970,Quality Inspection,High,5,Module Assembly,Flexible,4.3,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+971,BMS Integration,High,6,Final Testing,Evening,3.4,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+972,Electrical Wiring,High,3,Module Assembly,Night,4.2,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+973,Packaging,Medium,7,Final Testing,Morning,4.8,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,15
+974,Quality Inspection,Low,2,Final Testing,Evening,3.5,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+975,Mechanical Assembly,High,1,Final Testing,Evening,3.8,None,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,12
+976,Quality Inspection,Medium,2,Module Assembly,Night,3.8,Certified BMS Engineer,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+977,BMS Integration,Medium,3,Pack Assembly,Night,3.2,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+978,Electrical Wiring,Medium,2,Pack Assembly,Flexible,3.3,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,14
+979,Soldering,Medium,4,Cell Assembly,Night,4.0,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+980,Mechanical Assembly,Low,8,Cell Assembly,Night,3.3,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+981,Welding,Medium,7,Module Assembly,Morning,4.7,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+982,BMS Integration,Medium,7,Module Assembly,Flexible,4.2,None,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+983,Robotics,High,1,Final Testing,Flexible,3.8,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
+984,BMS Integration,High,1,Module Assembly,Flexible,4.0,Certified Welder,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+985,Packaging,Low,5,Pack Assembly,Night,3.3,Mechanical Technician,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+986,Electrical Wiring,High,8,Cell Assembly,Flexible,3.2,Mechanical Technician,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,14
+987,Soldering,High,1,Cell Assembly,Evening,3.1,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+988,Welding,Medium,7,Module Assembly,Night,3.1,Mechanical Technician,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+989,Mechanical Assembly,Low,4,Pack Assembly,Night,4.1,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,10
+990,Quality Inspection,Medium,8,Pack Assembly,Morning,4.4,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+991,Electrical Wiring,High,2,Cell Assembly,Morning,4.4,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+992,Automation,Low,6,Pack Assembly,Morning,4.3,Certified BMS Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+993,Quality Inspection,Low,3,Pack Assembly,Morning,3.5,Electrical Engineer,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+994,Quality Inspection,High,8,Pack Assembly,Evening,4.4,Quality Control Certified,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,12
+995,Mechanical Assembly,Medium,2,Cell Assembly,Evening,3.6,Electrical Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+996,Packaging,High,1,Pack Assembly,Morning,4.3,Certified Welder,"['Welding', 'Mechanical Assembly', 'Robotics']",Secondary,15
+997,Soldering,Medium,7,Cell Assembly,Evening,4.0,Certified BMS Engineer,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,12
+998,Robotics,Low,7,Cell Assembly,Night,3.5,None,"['Welding', 'Electrical Wiring', 'Mechanical Assembly']",Critical,10
+999,Electrical Wiring,Low,4,Module Assembly,Morning,3.8,Quality Control Certified,"['BMS Integration', 'Electrical Wiring', 'Mechanical Assembly']",Critical,15
+1000,Packaging,Medium,5,Final Testing,Flexible,3.4,Quality Control Certified,"['Quality Inspection', 'Electrical Wiring', 'Automation']",Critical,14
